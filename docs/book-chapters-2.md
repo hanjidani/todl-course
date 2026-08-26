@@ -43,7 +43,7 @@ nav_order: 5
 | 12–13 | Maxent / Conditional Maxent (logistic regression) | ⚙️ | M1 |
 | 14 | Algorithmic Stability | 🔬 | M5 |
 | 15 | Dimensionality Reduction (PCA, KPCA, JL) | 🔬 | — |
-| 16 | Learning Automata and Languages | 📖 | E10 (Track B reading) |
+| 16 | Learning Automata and Languages | 📖 | optional self-study |
 | 17 | Reinforcement Learning | 🗣 | E7 (session 83) |
 | App A–E | Linear algebra, Convex opt, Probability, Concentration, Info theory | 📖 (+🔬) | M0 |
 
@@ -67,8 +67,8 @@ nav_order: 5
 | 14 | Robust Optimization in Machine Learning | 🔬 | — |
 | 15 | Improving First- and Second-Order Methods | 📖 | E11 (reading, after M3) |
 | 16 | A Bandit View on Noisy Optimization | 🔬 | — |
-| 17 | Optimization Methods for Sparse Inverse Covariance Selection | 🔬 | Track B |
-| 18 | A Pathwise Algorithm for Covariance Selection | 🔬 | Track B |
+| 17 | Optimization Methods for Sparse Inverse Covariance Selection | 🔬 | — |
+| 18 | A Pathwise Algorithm for Covariance Selection | 🔬 | — |
 
 ## Surveys & OT monograph (teacher's story maps + M9 backbone)
 
@@ -77,4 +77,4 @@ nav_order: 5
 
 **Bartlett & Montanari, "Deep learning: a statistical viewpoint" (116p, Acta Numerica 2021)** — 📋 teacher depth for M5/M6/M7: uniform convergence, implicit regularization, benign overfitting, efficient optimization, generalization in the linear regime, kernels with n≪d.
 
-**Chewi–Niles-Weed–Rigollet, "Statistical Optimal Transport" (288p, Saint-Flour)** — ch1 Optimal transport & Wasserstein (🎓 M9) · ch2 Estimation of Wasserstein distances — WLLN, dyadic partitioning, dual chaining, rates (🎓 M9) · ch3 Estimation of transport maps (🗣 Track B) · ch4+ (🔬).
+**Chewi–Niles-Weed–Rigollet, "Statistical Optimal Transport" (288p, Saint-Flour)** — ch1 Optimal transport & Wasserstein (🎓 M9) · ch2 Estimation of Wasserstein distances — WLLN, dyadic partitioning, dual chaining, rates (🎓 M9) · ch3 Estimation of transport maps (🔬 research corner) · ch4+ (🔬).

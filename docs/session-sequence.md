@@ -153,19 +153,6 @@ nav_order: 3
 | **82** | **E6 — Arora ch9 · 🗣** | **Credit attribution: influence functions, Shapley, saliency** |
 | **83** | **E7 — Mohri ch17 · 🗣** | **Reinforcement learning crash course: MDP, planning, learning** |
 
-## Track B — Advanced statistics seminar (parallel, B1–B6)
-
-| # | Source | Topic |
-|---|---|---|
-| B1 | GMM-via-OT slides (teacher's model talk) · 🎓 | Moment-SOS, optimal transport |
-| B2 | Ghosh et al. · 🗣 | Networks from Gaussian graphical models / free fields |
-| B3 | Chaudhuri et al. · 🗣 | Empirical-likelihood ABC |
-| B4 | Ghosh et al. · 🗣 | Bulk spectra of truncated covariance |
-| B5 | CNWR ch3–4 · 🗣 | Transport-map estimation, rates |
-| B6 | Students' final presentations · 🗣 | — |
-
-> 📖 E10 — Mohri ch16 (learning automata and languages), reading inside Track B.
-
 ## Capstone (6–8 weeks, teams)
 
 Reproduce one of the four [capstone projects](research-tracks.html) + a research extension; final 20-minute talk.
@@ -173,6 +160,6 @@ Reproduce one of the four [capstone projects](research-tracks.html) + a research
 ## Counting
 
 - **83 numbered sessions** = 74 core lectures/seminars/workshops + **9 in-class extension sessions** (E1, E2, E3, E5, E6, E7, E8, E12, E13), all interleaved and numbered
-- **4 reading assignments** (E4, E9, E10, E11) — 📖 homework with a 3-question checklist, no class slot
-- Track B (6 seminars) runs in parallel · Capstone 6–8 weeks
+- **3 reading assignments** (E4, E9, E11) — 📖 homework with a 3-question checklist, no class slot
+- Capstone 6–8 weeks
 - Every chapter of every book is covered (see [Book chapters I](book-chapters-1.html) & [II](book-chapters-2.html))

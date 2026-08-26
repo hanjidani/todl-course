@@ -78,12 +78,6 @@ nav_order: 8
 - Hoffmann et al., *Training compute-optimal large language models* — 🆓 [arXiv:2203.15556](https://arxiv.org/abs/2203.15556)
 - Bahri et al., *Explaining neural scaling laws* — 🆓 [arXiv:2102.06701](https://arxiv.org/abs/2102.06701)
 
-### Track B — statistics seminar
-- Ghosh, Mukherjee, Tran, Gangopadhyay, *Learning networks from GGM and Gaussian free fields* — 🆓 [arXiv:2308.02344](https://arxiv.org/abs/2308.02344)
-- Chaudhuri, Ghosh, Pham, *An empirical-likelihood solution to the ABC problem* — 🆓 [arXiv:2403.05080](https://arxiv.org/abs/2403.05080)
-- Ghosh, Mukherjee, Talukdar, *Bulk spectra of truncated sample covariance matrices* — 🆓 [arXiv:2409.02911](https://arxiv.org/abs/2409.02911)
-- Anjidani, *Gaussian mixtures closest to a given measure via optimal transport* (presentation) — instructor's slides
-
 ---
 
 > 🔒 **Instructor copies** (Arora book, Ye book, Sra–Nowozin, reading-group slides, PNAS supplements, statistical papers, OT book) live in a private vault and are shared with enrolled students — they are **not** hosted publicly for copyright reasons.

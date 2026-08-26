@@ -46,7 +46,6 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 | M8 | Beyond kernels | 56–63 | Collapse simplex reproduction + lazy→feature sweep |
 | M9 | Generative models | 64–75 | 2D diffusion + minimax score-rate test |
 | M10 | Transformers & scaling (+ attribution, RL) | 76–83 | ICL reproduction + healthy skepticism |
-| Track B | Statistics seminar | B1–B6 | One 30-minute presentation |
 
 ## 🧭 Explore
 

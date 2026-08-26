@@ -31,7 +31,6 @@
 | M8 | Beyond kernels | 56–63 | Neural-collapse simplex reproduction + lazy→feature sweep |
 | M9 | Generative models | 64–75 | 2D diffusion + score-error rate test + why OT is its language |
 | M10 | Transformers & scaling (+ attribution, RL) | 76–83 | Linear-transformer ICL reproduction + healthy skepticism |
-| Track B | Advanced statistics seminar | B1–B6 | One 30-minute presentation with hand-built slides |
 | Capstone | Team projects | 6–8 weeks | Reproduction + a genuine research extension |
 
 ## What students read (books × papers)
