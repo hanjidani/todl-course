@@ -40,8 +40,6 @@
 
 **Papers (40+):** Zhang 2017 · Bartlett 2020 · Jacot 2018 · Arora 2019 · Papyan–Han–Donoho 2020 · Lu–Steinerberger · Hyvärinen 2005 · Song 2021 · Chen–Lee–Lu · Wibisono–Wu–Yang · Woodworth 2020 · Chizat–Bach · von Oswald 2022 · Kaplan 2020 · and more — see `docs/session-sequence`.
 
-**Teaching format:** 2-hour sessions, **tablet-first** (one concept per page, question before formula, students write alongside; slides only for figures) — see `docs/methodology`.
-
 ## Repository structure
 
 ```
@@ -51,7 +49,6 @@ docs/
 ├── course-map.md         ← modules, mastery criteria, pacing
 ├── session-sequence.md   ← the 74-session sequence, books × papers (parts 1–2)
 ├── research-tracks.md    ← 3 research tracks + capstone ideas
-├── methodology.md        ← session template, tablet method, execution rules
 └── status.md             ← roadmap / what's coming (course notes, live sessions)
 ```
 

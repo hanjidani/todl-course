@@ -53,4 +53,4 @@ flowchart LR
 
 ## Per-module structure
 
-Every module ends with a **student seminar session** (papers assigned 2 weeks ahead: 15–20 min + 10 min discussion each) and a **review session taught by the students**. Every other session follows the fixed 2-hour template — see [Methodology](methodology.html).
+Every module ends with a **student seminar session** — papers are assigned 2 weeks ahead and presented by the students (15–20 min + 10 min discussion each).

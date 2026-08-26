@@ -6,8 +6,7 @@ nav_order: 3
 
 # Session sequence — the 74-session spine
 
-> Each row = one 2-hour session. Roles: 🎓 in-class · 🗣 student seminar · 📖 homework · 🔬 research corner · 📋 teacher reference. Papers are interleaved between book chapters at the point where they belong.
-> Week pacing: 2 sessions/week ⇒ ~2.5 terms for the full spine; Track B runs in parallel.
+> Each row = one session. Roles: 🎓 in-class · 🗣 student seminar · 📖 homework · 🔬 research corner · 📋 teacher reference. Papers are interleaved between book chapters at the point where they belong.
 
 ## M0 — Math (1–4)
 

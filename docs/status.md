@@ -14,7 +14,6 @@ nav_order: 9
 - [x] Module map with mastery criteria — `course-map.md`
 - [x] 74-session sequence, books × papers — `session-sequence.md`
 - [x] Research tracks + capstone — `research-tracks.md`
-- [x] Teaching methodology (2h template + tablet method) — `methodology.md`
 
 ## In progress 🔜
 
