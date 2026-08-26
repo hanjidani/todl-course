@@ -1,3 +1,9 @@
+---
+layout: default
+title: Book chapters I
+nav_order: 4
+---
+
 # Book chapters (1/2) — Arora, Ye, SSBD
 
 > Status legend: ✅ full coverage in class · ⚙️ selected sections · 🗣 student seminar · 🔬 research corner · 📋 teacher reference · ⏭️ out of scope.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Methodology
+nav_order: 7
+---
+
 # Methodology — sessions, tablet teaching, rules
 
 ## The fixed 2-hour session template

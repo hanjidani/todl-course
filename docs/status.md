@@ -1,3 +1,9 @@
+---
+layout: default
+title: Status
+nav_order: 9
+---
+
 # Status & roadmap
 
 ## Done ✅

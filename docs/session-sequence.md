@@ -1,3 +1,9 @@
+---
+layout: default
+title: Session sequence
+nav_order: 3
+---
+
 # Session sequence — the 74-session spine
 
 > Each row = one 2-hour session. Roles: 🎓 in-class · 🗣 student seminar · 📖 homework · 🔬 research corner · 📋 teacher reference. Papers are interleaved between book chapters at the point where they belong.

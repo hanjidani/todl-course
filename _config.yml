@@ -1,0 +1,17 @@
+remote_theme: just-the-docs
+
+title: "ToDL Course"
+description: "Theory of Deep Learning for Undergraduates — books × papers curriculum"
+url: "https://hanjidani.github.io"
+
+# Navigation
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "On GitHub":
+    - "https://github.com/hanjidani/todl-course"
+
+# Look & feel
+color_scheme: light
+back_to_top: true
+footer_content: "Supervised by <b>Mohammad Mahdi Mojahedian</b> (Sharif University of Technology) · Instructor: Hossein Anjidani · <a href='https://github.com/hanjidani/todl-course'>GitHub</a>"

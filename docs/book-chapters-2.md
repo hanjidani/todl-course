@@ -1,3 +1,9 @@
+---
+layout: default
+title: Book chapters II
+nav_order: 5
+---
+
 # Book chapters (2/2) — Vershynin, Mohri, Sra–Nowozin, surveys, Statistical OT
 
 > Status legend: ✅ full coverage · ⚙️ selected sections · 🗣 student seminar · 🔬 research corner · 📋 teacher reference · ⏭️ out of scope.

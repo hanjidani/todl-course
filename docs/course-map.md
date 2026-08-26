@@ -1,6 +1,33 @@
+---
+layout: default
+title: Course map
+nav_order: 2
+has_children: false
+---
+
 # Course map — modules, mastery, pacing
 
 > 13 modules, ~74 teaching sessions of 2 hours each, plus Track B (parallel seminar) and a 6–8 week capstone. Pace is **module-based, not hour-based**: pass the mastery criterion, then move on (~2.5 terms at 2 sessions/week).
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({ startOnLoad: true, theme: "neutral" });</script>
+
+## Module flow
+
+<div class="mermaid">
+flowchart LR
+    M0["M0 · Math"] --> M1["M1 · ML basics"] --> M2["M2 · Networks"] --> M3["M3 · Optimization"] --> M4["M4 · Landscapes"]
+    M4 --> M5["M5 · Generalization"] --> M6["M6 · Interpolation"] --> M7["M7 · Kernels & NTK"]
+    M7 --> M8["M8 · Beyond kernels"] --> M9["M9 · Generative"] --> M10["M10 · Transformers"]
+    TB["Track B · Statistics"] -. parallel .-> M9
+    M10 --> CAP["Capstone"]
+    M9 --> CAP
+    M7 -. "lazy/rich bridge" .-> M8
+    style M0 fill:#eef,stroke:#99b
+    style CAP fill:#efe,stroke:#9b9
+</div>
+
+## Modules & mastery criteria
 
 | Mod | Name | Sessions | Mastery criterion (must-pass) |
 |---|---|---|---|
@@ -18,21 +45,12 @@
 | Track B | Advanced statistics seminar | B1–B6 | One 30-minute presentation, hand-built slides |
 | Capstone | Team projects | 6–8 weeks | Reproduction + genuine research extension |
 
-## Module flow
+## Hard prerequisite chains (do not jump)
 
-```
-M0 Math ─▶ M1 ML basics ─▶ M2 Networks ─▶ M3 Optimization ─▶ M4 Landscapes
-                                                                 │
-M10 Transformers ◀─ M9 Generative ◀─ M8 Beyond kernels ◀─ M7 NTK ◀─ M6 Interpolation
-                                        ▲                        │
-                                        └──── M5 Generalization ──┘
-```
-
-**Hard prerequisite chains (do not jump):**
 - SSBD/Mohri basics → M5 → M6 (interpolation needs rigorous generalization language)
 - Kernels (M7, sessions 41–42) **before** NTK (43–44)
 - NTK (M7) before lazy-vs-rich (47) and before neural collapse (M8)
 
 ## Per-module structure
 
-Every module ends with a **student seminar session** (papers assigned 2 weeks ahead: 15–20 min + 10 min discussion each) and a **review session taught by the students**. Every other session follows the fixed 2-hour template — see [methodology](methodology.md).
+Every module ends with a **student seminar session** (papers assigned 2 weeks ahead: 15–20 min + 10 min discussion each) and a **review session taught by the students**. Every other session follows the fixed 2-hour template — see [Methodology](methodology.html).
