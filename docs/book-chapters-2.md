@@ -6,7 +6,8 @@ nav_order: 5
 
 # Book chapters (2/2) — Vershynin, Mohri, Sra–Nowozin, surveys, Statistical OT
 
-> Status legend: ✅ full coverage · ⚙️ selected sections · 🗣 student seminar · 🔬 research corner · 📋 teacher reference · ⏭️ out of scope.
+> Status legend: ✅ full coverage · ⚙️ selected sections in class · 🗣 student seminar · 📖 assigned reading · 🔬 research corner · 📋 teacher material.
+> **No out-of-scope topics:** every chapter has an assignment — main modules, extension sessions E1–E13 (see [session sequence](session-sequence.md)), or the research corner.
 > Chapter numbers follow the actual editions used (Vershynin **2nd edition 2026**).
 
 ## Vershynin, *High-Dimensional Probability* (2nd ed., 341p — the toolbelt)
@@ -34,29 +35,40 @@ nav_order: 5
 | 4 | Model Selection (ERM/SRM, CV, regularization) | ✅ | M5 |
 | 5 | Support Vector Machines | ⚙️ | M1 |
 | 6 | Kernel Methods (PDS, representer, sequence kernels) | ✅ | M7 |
-| 7 | Boosting | ⏭️ | — |
+| 7 | Boosting | 📖 | E1 (with SSBD ch9 seminar) |
 | 8 | On-Line Learning (expert advice, on-line-to-batch) | ⚙️ | M3 |
-| 9–10 | Multi-Class / Ranking | ⏭️ | — |
+| 9 | Multi-Class Classification | 📖 | E13 (inside M5) |
+| 10 | Ranking | 🗣 | E5 (after M5) |
 | 11 | Regression | 🔬 | M6 |
 | 12–13 | Maxent / Conditional Maxent (logistic regression) | ⚙️ | M1 |
 | 14 | Algorithmic Stability | 🔬 | M5 |
 | 15 | Dimensionality Reduction (PCA, KPCA, JL) | 🔬 | — |
-| 16–17 | Automata / Reinforcement Learning | ⏭️ | — |
+| 16 | Learning Automata and Languages | 📖 | E10 (Track B) |
+| 17 | Reinforcement Learning | 🗣 | E7 (after M10 / Track B) |
 | App A–E | Linear algebra, Convex opt, Probability, Concentration, Info theory | 📖 (+🔬) | M0 |
 
-## Sra, Nowozin & Wright, *Optimization for ML* (509p — teacher's optimization reference)
+## Sra, Nowozin & Wright, *Optimization for ML* (509p — full 18-chapter coverage)
 
 | # | Chapter | Status | Module |
 |---|---|---|---|
-| 1 | Introduction (SVM, regularized optimization) | 📋 | — |
+| 1 | Introduction (SVM, regularized optimization) | 📋 | teacher prep (M3) |
 | 2 | Convex Opt. with Sparsity-Inducing Norms (proximal, coordinate, reweighted) | 🔬 | M6 |
-| 3 | Interior-Point Cone Programming (LP/QP/SOCP/SDP) | ⏭️ | — |
-| 4 | Incremental Gradient, Subgradient & Proximal Methods | ✅ | M3 |
-| 5 | First-Order Methods for Nonsmooth Convex Large-Scale | ⚙️ | M3 |
-| 6 | Cutting-Plane Methods in ML | ⏭️ | — |
-| 7 | Dual Decomposition for Inference | 🔬 | — |
-| 8 | Augmented Lagrangian Methods | 🔬 | — |
-| 9–11 | remaining chapters | ⏭️ | — |
+| 3 | Interior-Point Cone Programming (LP/QP/SOCP/SDP) | 📖 | E11 (after M3) |
+| 4 | Incremental Gradient, Subgradient & Proximal Methods (Bertsekas) | ✅ | M3 |
+| 5 | First-Order Methods for Nonsmooth Large-Scale, I: General Purpose (Juditsky–Nemirovski) | ⚙️ | M3 |
+| 6 | First-Order Methods for Nonsmooth Large-Scale, II: Utilizing Structure (Juditsky–Nemirovski) | ⚙️ | M3 |
+| 7 | Cutting-Plane Methods in ML (Franc, Sonnenburg, Werner) | 📖 | E11 (after M3) |
+| 8 | Introduction to Dual Decomposition for Inference (Sontag, Globerson, Jaakkola) | 🔬 | — |
+| 9 | Augmented Lagrangian Methods for Learning/Selecting/Combining Features (Tomioka et al.) | 🔬 | — |
+| 10 | The Convex Optimization Approach to Regret Minimization | 📖 | M3 (OCO depth) |
+| 11 | Projected Newton-type Methods in Machine Learning | 🔬 | — |
+| 12 | Interior-Point Methods in Machine Learning | 📖 | E11 (after M3) |
+| 13 | The Tradeoffs of Large-Scale Learning (Bottou–Bousquet) | 🗣 | E12 (after M3) |
+| 14 | Robust Optimization in Machine Learning | 🔬 | — |
+| 15 | Improving First- and Second-Order Methods | 📖 | E11 (after M3) |
+| 16 | A Bandit View on Noisy Optimization | 🔬 | — |
+| 17 | Optimization Methods for Sparse Inverse Covariance Selection | 🔬 | Track B |
+| 18 | A Pathwise Algorithm for Covariance Selection | 🔬 | Track B |
 
 ## Surveys & OT monograph (teacher's story maps + M9 backbone)
 

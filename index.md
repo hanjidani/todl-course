@@ -20,8 +20,8 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 | | |
 |---|---|
 | 🎯 **Audience** | Fresh BSc students, zero background required |
-| 📚 **Content** | 6 books × 40+ papers, woven into one path |
-| 📏 **Structure** | 74 sessions across 13 modules, from math foundations to transformers |
+| 📚 **Content** | 6 books × 40+ papers, woven into one path — **every chapter of every book is covered** |
+| 📏 **Structure** | 74 core sessions + 13 extension sessions across 13 modules |
 | 🔬 **Outcome** | Research-ready: every module ends in a reproduction workshop |
 | ⚖️ **Pace** | Precision over speed — module-based mastery, no rushing |
 
@@ -51,7 +51,7 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 ## 🧭 Explore
 
 - **[Course map](course-map.html)** — module graph, mastery criteria, prerequisite chains
-- **[Session sequence](session-sequence.html)** — all 74 sessions, books × papers
+- **[Session sequence](session-sequence.html)** — all 74 core sessions + 13 extensions, books × papers
 - **[Book chapters](book-chapters-1.html)** — chapter breakdown of every source (+ [part 2](book-chapters-2.html))
 - **[Sources](sources.html)** — every book & paper, with direct links
 - **[Research tracks](research-tracks.html)** — 3 tracks + capstone projects with open problems

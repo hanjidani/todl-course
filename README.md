@@ -47,7 +47,7 @@ README.md                 ← this landing page
 docs/
 ├── book-chapters.md      ← chapter breakdown of all source books (parts 1–2)
 ├── course-map.md         ← modules, mastery criteria, pacing
-├── session-sequence.md   ← the 74-session sequence, books × papers (parts 1–2)
+├── session-sequence.md   ← 74 core sessions + 13 extensions, books × papers
 ├── research-tracks.md    ← 3 research tracks + capstone ideas
 └── status.md             ← roadmap / what's coming (course notes, live sessions)
 ```

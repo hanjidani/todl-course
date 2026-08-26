@@ -4,7 +4,7 @@ title: Session sequence
 nav_order: 3
 ---
 
-# Session sequence — the 74-session spine
+# Session sequence — 74 core sessions + extensions
 
 > Each row = one session. Roles: 🎓 in-class · 🗣 student seminar · 📖 homework · 🔬 research corner · 📋 teacher reference. Papers are interleaved between book chapters at the point where they belong.
 
@@ -151,3 +151,23 @@ nav_order: 3
 ## Capstone (6–8 weeks, teams)
 
 Reproduce one of the four [capstone projects](research-tracks.md) + a research extension; final 20-minute talk.
+
+## Extension sessions (E1–E13) — full-book coverage
+
+The extension sessions guarantee **every chapter of every book** is covered — nothing is out of scope. They slot into the core sequence at the marked positions.
+
+| # | Source | Topic | Role | Slot |
+|---|---|---|---|---|
+| E1 | SSBD ch9 + Mohri ch7 | Boosting: AdaBoost, functional-gradient view, generalization | 🗣 | after M3 (20) |
+| E2 | SSBD ch17 | Decision trees & ensemble practice | 🗣 | after M5 (32) |
+| E3 | SSBD ch21 | Clustering fundamentals | 🗣 | after M1 (8) |
+| E4 | SSBD ch24 | Feature selection | 📖 | after M5 (32) |
+| E5 | Mohri ch10 | Ranking: theory and algorithms | 🗣 | after M5 (32) |
+| E6 | Arora ch9 | Credit attribution: influence functions, Shapley, saliency | 🗣 | after M10 (74) |
+| E7 | Mohri ch17 | Reinforcement learning crash course: MDP, planning, learning | 🗣 | after M10 / Track B |
+| E8 | Ye ch8 | Graph neural networks | 🗣 | after M2 (14) |
+| E9 | SSBD ch7 | Computational learnability (runtime of learning) | 📖 | after M5 (32) |
+| E10 | Mohri ch16 | Learning automata and languages | 📖 | Track B |
+| E11 | Sra ch3, 7, 12, 15 | Interior-point, cutting-plane, IPM-in-ML, improving first/second-order | 📖 | after M3 (20) |
+| E12 | Sra ch13 | Tradeoffs of large-scale learning (Bottou–Bousquet) | 🗣 | after M3 (20) |
+| E13 | SSBD ch16 + ch28 + Mohri ch9 | Multiclass: in-class lecture + advanced learnability reading | ⚙️📖 | inside M5 (27–32) |

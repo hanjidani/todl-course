@@ -6,7 +6,8 @@ nav_order: 4
 
 # Book chapters (1/2) — Arora, Ye, SSBD
 
-> Status legend: ✅ full coverage in class · ⚙️ selected sections · 🗣 student seminar · 🔬 research corner · 📋 teacher reference · ⏭️ out of scope.
+> Status legend: ✅ full coverage in class · ⚙️ selected sections in class · 🗣 student seminar · 📖 assigned reading · 🔬 research corner · 📋 teacher material (used to prepare sessions).
+> **No out-of-scope topics:** every chapter has an assignment — main modules, extension sessions E1–E13 (see [session sequence](session-sequence.md)), or the research corner.
 > Module column refers to the [course map](course-map.md).
 
 ## Arora et al., *Theory of Deep Learning* (227p — course spine)
@@ -22,7 +23,7 @@ nav_order: 4
 | 6 | Escaping Saddle Points (perturbed GD) | ✅ | M4 |
 | 7 | Algorithmic Regularization (linear, matrix factorization, margin) | ✅ | M6 |
 | 8 | Ultra-wide Networks & NTK | ✅ | M7 |
-| 9 | Credit Attribution (influence functions, Shapley, saliency) | ⏭️ | — |
+| 9 | Credit Attribution (influence functions, Shapley, saliency) | 🗣 | E6 (after M10) |
 | 10 | Inductive Biases via Algorithmic Regularization (matrix sensing) | 🔬 | M6 |
 | 11 | SDE approximation of SGD (gradient noise, SVAG) | 🔬 | M3 |
 | 12 | Effect of Normalization | ✅ | M8 |
@@ -43,7 +44,7 @@ nav_order: 4
 | 5 | Biological Neural Networks | ⚙️ | M2 |
 | 6 | Artificial Neural Networks & Backpropagation | ✅ | M2 |
 | 7 | Convolutional Neural Networks | ⚙️ | M2 |
-| 8 | Graph Neural Networks | ⏭️ | — |
+| 8 | Graph Neural Networks | 🗣 | E8 (after M2) |
 | 9 | Normalization and Attention | ✅ | M8/M10 |
 | 10 | Geometry of Deep Neural Networks | ✅ | M8 |
 | 11 | Deep Learning Optimization | ⚙️ | M3–4 |
@@ -61,26 +62,28 @@ nav_order: 4
 | 4 | The Bias-Complexity Tradeoff | ✅ | M1 |
 | 5 | The VC-Dimension | ✅ | M5 |
 | 6 | Nonuniform Learnability | ⚙️ | M5 |
-| 7 | The Runtime of Learning | ⏭️ | — |
+| 7 | The Runtime of Learning (computational learnability) | 📖 | E9 (after M5) |
 | 8 | Linear Predictors | ⚙️ | M1 |
-| 9 | Boosting | ⏭️ | — |
+| 9 | Boosting | 🗣 | E1 (after M3) |
 | 10 | Model Selection and Validation | ✅ | M5 |
 | 11 | Convex Learning Problems | ✅ | M3 |
 | 12 | Regularization and Stability | ✅ | M1/M3 |
 | 13 | Stochastic Gradient Descent | ✅ | M3 |
 | 14 | Support Vector Machines | ⚙️ | M1 |
 | 15 | Kernel Methods | ✅ | M7 |
-| 16–17 | Multiclass / Decision Trees | ⏭️ | — |
+| 16 | Multiclass | ⚙️ | E13 (inside M5) |
+| 17 | Decision Trees | 🗣 | E2 (after M5) |
 | 18 | Neural Networks | ✅ | M2 |
 | 19 | Nearest Neighbor (with Belkin: simplicial interpolation) | 🗣 | M6 |
 | 20 | Online Learning | ⚙️ | M3 |
-| 21–22 | Clustering / Dimensionality Reduction | ⏭️ / 🔬 | — |
-| 23 | Generative Models | ⏭️ (replaced by Arora + papers) | — |
-| 24 | Feature Selection | ⏭️ | — |
+| 21 | Clustering | 🗣 | E3 (after M1) |
+| 22 | Dimensionality Reduction | 🔬 | — |
+| 23 | Generative Models | ✅ | M9 (integrated with Arora ch13 + papers) |
+| 24 | Feature Selection | 📖 | E4 (after M5) |
 | 25 | Rademacher Complexities | ✅ | M5 |
 | 26 | Covering Numbers | 🔬 | M5 |
 | 27 | Proof of the Fundamental Theorem of Learning Theory | 🗣 | M5 |
-| 28 | Multiclass Learnability | ⏭️ | — |
+| 28 | Multiclass Learnability | 📖 | E13 (inside M5) |
 | 29 | Compression Bounds | ⚙️ | M5 |
 | 30 | PAC-Bayes | ✅ | M5 |
 | App A–C | Linear Algebra / Probability / Concentration | 📖 | M0 |
