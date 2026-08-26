@@ -150,7 +150,7 @@ nav_order: 3
 
 ## Capstone (6–8 weeks, teams)
 
-Reproduce one of the four [capstone projects](research-tracks.md) + a research extension; final 20-minute talk.
+Reproduce one of the four [capstone projects](research-tracks.html) + a research extension; final 20-minute talk.
 
 ## Extension sessions (E1–E13) — full-book coverage
 

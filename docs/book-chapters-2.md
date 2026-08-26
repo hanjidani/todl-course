@@ -7,7 +7,7 @@ nav_order: 5
 # Book chapters (2/2) — Vershynin, Mohri, Sra–Nowozin, surveys, Statistical OT
 
 > Status legend: ✅ full coverage · ⚙️ selected sections in class · 🗣 student seminar · 📖 assigned reading · 🔬 research corner · 📋 teacher material.
-> **No out-of-scope topics:** every chapter has an assignment — main modules, extension sessions E1–E13 (see [session sequence](session-sequence.md)), or the research corner.
+> **No out-of-scope topics:** every chapter has an assignment — main modules, extension sessions E1–E13 (see [session sequence](session-sequence.html)), or the research corner.
 > Chapter numbers follow the actual editions used (Vershynin **2nd edition 2026**).
 
 ## Vershynin, *High-Dimensional Probability* (2nd ed., 341p — the toolbelt)

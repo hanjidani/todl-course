@@ -50,12 +50,12 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 
 ## 🧭 Explore
 
-- **[Course map](course-map.html)** — module graph, mastery criteria, prerequisite chains
-- **[Session sequence](session-sequence.html)** — all 74 core sessions + 13 extensions, books × papers
-- **[Book chapters](book-chapters-1.html)** — chapter breakdown of every source (+ [part 2](book-chapters-2.html))
-- **[Sources](sources.html)** — every book & paper, with direct links
-- **[Research tracks](research-tracks.html)** — 3 tracks + capstone projects with open problems
-- **[Status](status.html)** — roadmap, live checklist
+- **[Course map](docs/course-map.html)** — module graph, mastery criteria, prerequisite chains
+- **[Session sequence](docs/session-sequence.html)** — all 74 core sessions + 13 extensions, books × papers
+- **[Book chapters](docs/book-chapters-1.html)** — chapter breakdown of every source (+ [part 2](docs/book-chapters-2.html))
+- **[Sources](docs/sources.html)** — every book & paper, with direct links
+- **[Research tracks](docs/research-tracks.html)** — 3 tracks + capstone projects with open problems
+- **[Status](docs/status.html)** — roadmap, live checklist
 
 ---
 

@@ -45,7 +45,8 @@
 ```
 README.md                 ← this landing page
 docs/
-├── book-chapters.md      ← chapter breakdown of all source books (parts 1–2)
+├── book-chapters-1.md    ← chapter breakdown: Arora / Ye / SSBD
+├── book-chapters-2.md    ← chapter breakdown: Vershynin / Mohri / Sra / surveys
 ├── course-map.md         ← modules, mastery criteria, pacing
 ├── session-sequence.md   ← 74 core sessions + 13 extensions, books × papers
 ├── research-tracks.md    ← 3 research tracks + capstone ideas

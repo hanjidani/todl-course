@@ -7,8 +7,8 @@ nav_order: 4
 # Book chapters (1/2) — Arora, Ye, SSBD
 
 > Status legend: ✅ full coverage in class · ⚙️ selected sections in class · 🗣 student seminar · 📖 assigned reading · 🔬 research corner · 📋 teacher material (used to prepare sessions).
-> **No out-of-scope topics:** every chapter has an assignment — main modules, extension sessions E1–E13 (see [session sequence](session-sequence.md)), or the research corner.
-> Module column refers to the [course map](course-map.md).
+> **No out-of-scope topics:** every chapter has an assignment — main modules, extension sessions E1–E13 (see [session sequence](session-sequence.html)), or the research corner.
+> Module column refers to the [course map](course-map.html).
 
 ## Arora et al., *Theory of Deep Learning* (227p — course spine)
 
@@ -88,4 +88,4 @@ nav_order: 4
 | 30 | PAC-Bayes | ✅ | M5 |
 | App A–C | Linear Algebra / Probability / Concentration | 📖 | M0 |
 
-*Continue to [Book chapters (2/2)](book-chapters-2.md) — Vershynin, Mohri, Sra–Nowozin, surveys, Statistical OT.*
+*Continue to [Book chapters (2/2)](book-chapters-2.html) — Vershynin, Mohri, Sra–Nowozin, surveys, Statistical OT.*
