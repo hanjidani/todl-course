@@ -7,17 +7,14 @@ has_children: false
 
 # Course map — modules, mastery, pacing
 
-> 13 modules, ~74 teaching sessions of 2 hours each, plus Track B (parallel seminar) and a 6–8 week capstone. Pace is **module-based, not hour-based**: pass the mastery criterion, then move on (~2.5 terms at 2 sessions/week).
-
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
-<script>mermaid.initialize({ startOnLoad: true, theme: "neutral" });</script>
+> 13 modules, 74 sessions, plus Track B (parallel seminar) and a 6–8 week capstone. Pace is **module-based, not hour-based**: pass the mastery criterion, then move on.
 
 ## Module flow
 
-<div class="mermaid">
+```mermaid
 flowchart LR
     M0["M0 · Math"] --> M1["M1 · ML basics"] --> M2["M2 · Networks"] --> M3["M3 · Optimization"] --> M4["M4 · Landscapes"]
-    M4 --> M5["M5 · Generalization"] --> M6["M6 · Interpolation"] --> M7["M7 · Kernels & NTK"]
+    M4 --> M5["M5 · Generalization"] --> M6["M6 · Interpolation"] --> M7["M7 · Kernels and NTK"]
     M7 --> M8["M8 · Beyond kernels"] --> M9["M9 · Generative"] --> M10["M10 · Transformers"]
     TB["Track B · Statistics"] -. parallel .-> M9
     M10 --> CAP["Capstone"]
@@ -25,7 +22,7 @@ flowchart LR
     M7 -. "lazy/rich bridge" .-> M8
     style M0 fill:#eef,stroke:#99b
     style CAP fill:#efe,stroke:#9b9
-</div>
+```
 
 ## Modules & mastery criteria
 
