@@ -28,7 +28,8 @@ jobs:
           ruby-version: "3.3"
           bundler-cache: true
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        # baseurl comes from _config.yml (relative_url handles the prefix)
+        run: bundle exec jekyll build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
