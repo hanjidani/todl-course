@@ -48,7 +48,7 @@ docs/
 ├── book-chapters-1.md    ← chapter breakdown: Arora / Ye / SSBD
 ├── book-chapters-2.md    ← chapter breakdown: Vershynin / Mohri / Sra / surveys
 ├── course-map.md         ← modules, mastery criteria, pacing
-├── session-sequence.md   ← 74 core sessions + 13 extensions, books × papers
+├── session-sequence.md   ← 83 sessions, extensions interleaved (E1–E13)
 ├── research-tracks.md    ← 3 research tracks + capstone ideas
 └── status.md             ← roadmap / what's coming (course notes, live sessions)
 ```
