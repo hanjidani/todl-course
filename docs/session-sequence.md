@@ -42,9 +42,9 @@ nav_order: 3
 | # | Source | Topic |
 |---|---|---|
 | 15 | Arora ch1 (pt 1) · 🎓 | GD, smoothness, rates |
-| 16 | Arora ch1 (pt 2) + SSBD ch11 · 🎓 | Accelerated methods, convex learning |
+| 16 | Arora ch1 (pt 2) + SSBD ch11 + Ye ch11 · 🎓 | Accelerated methods, convex learning, DL-optimization view |
 | 17 | SSBD ch13 + Sra ch4 (sel.) · 🎓 | SGD, incremental/proximal |
-| 18 | Sra ch5 (sel.) + reading-group slides ch2–3 · 🎓📖 | Nonsmooth first-order, review |
+| 18 | Sra ch5 (sel.) + SSBD ch20 + Mohri ch8 + reading slides ch2–3 · 🎓📖 | Nonsmooth first-order, online learning / OCO |
 | 19 | SSBD ch12 + Arora ch11 (SDE-of-SGD) · 🎓🔬 | Stability/regularization; SGD noise |
 | 20 | M3 seminar · 🗣 | — |
 
@@ -80,14 +80,14 @@ nav_order: 3
 | 36 | PNAS supplement (Thm S.14, §K) + Hastie et al. 2022 · 🔬🗣 | Spectral patterns, lower bounds |
 | 37 | Arora ch7 · 🎓 | Algorithmic regularization |
 | 38 | Soudry 2018 + Gunasekar 2017 + HaoChen 2021 · 🗣🔬 | Modern implicit bias |
-| 39 | Belkin §3.9–3.11 + Bartlett–Montanari §3 · 🎓📋 | Alignment, kernelization, outlook |
+| 39 | Belkin §3.9–3.11 + Ye ch12 + B–M §3 · 🎓📋 | Alignment, kernelization, generalization capability, outlook |
 | 40 | Workshop: benign/harmful phase diagram + review · 🎓 | — |
 
 ## M7 — Kernels & NTK (41–48)
 
 | # | Source | Topic |
 |---|---|---|
-| 41 | Mohri ch6 + SSBD ch15 · 🎓 | Kernels, kernel ridge |
+| 41 | Mohri ch6 + SSBD ch15 + Vershynin ch3 (kernel trick) · 🎓 | Kernels, kernel ridge |
 | 42 | Ye ch4 · 🎓 | RKHS, representer theorem |
 | 43 | **Jacot et al. 2018** · 🎓 | NTK: limit, dynamics |
 | 44 | **Arora et al. 2019** · 🎓 | Exact NTK, CNTK |
@@ -102,7 +102,7 @@ nav_order: 3
 |---|---|---|
 | 49 | **Papyan–Han–Donoho 2020** + live experiment · 🎓 | NC1–NC4, terminal phase of training |
 | 50 | **Lu–Steinerberger** + PNAS supplement · 🎓🔬 | ETF, variational analysis |
-| 51 | Arora ch12 + reading slides ch13 · 🎓📖 | Normalization, scale invariance |
+| 51 | Arora ch12 + Ye ch9 (normalization part) + reading slides ch13 · 🎓📖 | Normalization, scale invariance |
 | 52 | Ioffe–Szegedy 2015 + Santurkar 2018 + Daneshmand 2020 · 📖🗣🔬 | Why batch norm works |
 | 53 | Reading slides ch11 + Ye ch10 · 📖🎓 | Dropout, geometry of DNNs |
 | 54 | Workshop · 🎓 | Lazy→feature sweep |
@@ -113,7 +113,7 @@ nav_order: 3
 
 | # | Source | Topic |
 |---|---|---|
-| 57 | Arora ch13 + Ye ch13 · 🎓📖 | VAE, normalizing flows, generative landscape |
+| 57 | Arora ch13 + **ch15 (GANs)** + Ye ch13 · 🎓📖 | VAE, flows, GANs — the generative landscape |
 | 58 | **Hyvärinen 2005** · 🎓 | Score matching |
 | 59 | Sohl-Dickstein 2015 + Luo 2022 · 📖🎓 | Markov chains, ELBO/DDPM |
 | 60 | **Song et al. 2021** · 🎓 | Score-based SDEs, probability flow |
@@ -130,7 +130,7 @@ nav_order: 3
 
 | # | Source | Topic |
 |---|---|---|
-| 69 | Ye ch9 + Arora ch14 · 🎓 | Attention, transformers |
+| 69 | Ye ch9 + Arora ch14 + **Arora ch16 (self-supervised)** · 🎓 | Attention, transformers, self-supervised pretraining |
 | 70 | Arora ch14 (scaling) + Kaplan et al. 2020 · 🎓 | Power laws (fitting exercise) |
 | 71 | von Oswald 2022 + Garg 2022 · 🗣 | In-context learning ≈ GD |
 | 72 | Olsson 2022 + workshop · 🗣🎓 | Induction heads, linear ICL |
@@ -158,10 +158,10 @@ The extension sessions guarantee **every chapter of every book** is covered — 
 
 | # | Source | Topic | Role | Slot |
 |---|---|---|---|---|
-| E1 | SSBD ch9 + Mohri ch7 | Boosting: AdaBoost, functional-gradient view, generalization | 🗣 | after M3 (20) |
-| E2 | SSBD ch17 | Decision trees & ensemble practice | 🗣 | after M5 (32) |
+| E1 | SSBD ch9 + Mohri ch7 | Boosting: AdaBoost, functional-gradient view, margin theory | 🗣 | after M5 (32) |
+| E2 | SSBD ch17 | Decision trees & ensemble practice | 🗣 | after M1 (8) |
 | E3 | SSBD ch21 | Clustering fundamentals | 🗣 | after M1 (8) |
-| E4 | SSBD ch24 | Feature selection | 📖 | after M5 (32) |
+| E4 | SSBD ch24 | Feature selection | 📖 | after M1 (8) |
 | E5 | Mohri ch10 | Ranking: theory and algorithms | 🗣 | after M5 (32) |
 | E6 | Arora ch9 | Credit attribution: influence functions, Shapley, saliency | 🗣 | after M10 (74) |
 | E7 | Mohri ch17 | Reinforcement learning crash course: MDP, planning, learning | 🗣 | after M10 / Track B |
@@ -170,4 +170,4 @@ The extension sessions guarantee **every chapter of every book** is covered — 
 | E10 | Mohri ch16 | Learning automata and languages | 📖 | Track B |
 | E11 | Sra ch3, 7, 12, 15 | Interior-point, cutting-plane, IPM-in-ML, improving first/second-order | 📖 | after M3 (20) |
 | E12 | Sra ch13 | Tradeoffs of large-scale learning (Bottou–Bousquet) | 🗣 | after M3 (20) |
-| E13 | SSBD ch16 + ch28 + Mohri ch9 | Multiclass: in-class lecture + advanced learnability reading | ⚙️📖 | inside M5 (27–32) |
+| E13 | SSBD ch16 + ch28 + Mohri ch9 | Multiclass: in-class lecture + advanced learnability reading | ⚙️📖 | inside M5 (after 28) |

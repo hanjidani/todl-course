@@ -17,7 +17,7 @@ nav_order: 5
 | Appetizer | Covering a set with probability | ⚙️ | M0 |
 | 1 | Quick Refresher on Analysis and Probability | 📖 | M0 |
 | 2 | Concentration of Sums (Hoeffding, Chernoff, subgaussian, Bernstein) | ✅ | M0 |
-| 3 | Random Vectors in High Dimensions (norm concentration, PCA, kernel trick) | ✅ | M0/M7 |
+| 3 | Random Vectors in High Dimensions (norm concentration, PCA, kernel trick) | ✅ | M0 (session 2) + M7 (session 41, kernel trick) |
 | 4 | Random Matrices (nets, subgaussian matrices, covariance estimation) | ⚙️ | M6 |
 | 5 | Concentration Without Independence (Lipschitz, JL, matrix Bernstein) | 🔬 | — |
 | 6 | Quadratic Forms (Hanson–Wright, symmetrization) | 🔬 | M6 |
@@ -36,8 +36,8 @@ nav_order: 5
 | 5 | Support Vector Machines | ⚙️ | M1 |
 | 6 | Kernel Methods (PDS, representer, sequence kernels) | ✅ | M7 |
 | 7 | Boosting | 📖 | E1 (with SSBD ch9 seminar) |
-| 8 | On-Line Learning (expert advice, on-line-to-batch) | ⚙️ | M3 |
-| 9 | Multi-Class Classification | 📖 | E13 (inside M5) |
+| 8 | On-Line Learning (expert advice, on-line-to-batch) | ⚙️ | M3 (session 18) |
+| 9 | Multi-Class Classification | 📖 | E13 (inside M5, after 28) |
 | 10 | Ranking | 🗣 | E5 (after M5) |
 | 11 | Regression | 🔬 | M6 |
 | 12–13 | Maxent / Conditional Maxent (logistic regression) | ⚙️ | M1 |

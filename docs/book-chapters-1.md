@@ -29,8 +29,8 @@ nav_order: 4
 | 12 | Effect of Normalization | ✅ | M8 |
 | 13 | Unsupervised: Distribution Learning (VAE, flows, Stable Diffusion) | ✅ | M9 |
 | 14 | Language Models (transformers, scaling laws, emergence, alignment) | ✅ | M10 |
-| 15 | GANs (distribution distances, mode collapse) | ⚙️ | M9 |
-| 16 | Self-supervised Learning | ⚙️ | M10 |
+| 15 | GANs (distribution distances, mode collapse) | ⚙️ | M9 (session 57) |
+| 16 | Self-supervised Learning | ⚙️ | M10 (session 69) |
 | 17 | Adversarial Examples (randomized smoothing) | 🔬 | — |
 
 ## Ye, *Geometry of Deep Learning* (338p — geometric/signal-processing companion)
@@ -45,10 +45,10 @@ nav_order: 4
 | 6 | Artificial Neural Networks & Backpropagation | ✅ | M2 |
 | 7 | Convolutional Neural Networks | ⚙️ | M2 |
 | 8 | Graph Neural Networks | 🗣 | E8 (after M2) |
-| 9 | Normalization and Attention | ✅ | M8/M10 |
+| 9 | Normalization and Attention | ✅ | M8 (session 51) + M10 (session 69) |
 | 10 | Geometry of Deep Neural Networks | ✅ | M8 |
-| 11 | Deep Learning Optimization | ⚙️ | M3–4 |
-| 12 | Generalization Capability | ✅ | M5–6 |
+| 11 | Deep Learning Optimization | ⚙️ | M3 (session 16) |
+| 12 | Generalization Capability | ✅ | M5–6 (session 39) |
 | 13 | Generative Models & Unsupervised Learning | ✅ | M9 |
 | 14 | Summary and Outlook | 📋 | — |
 
@@ -64,26 +64,26 @@ nav_order: 4
 | 6 | Nonuniform Learnability | ⚙️ | M5 |
 | 7 | The Runtime of Learning (computational learnability) | 📖 | E9 (after M5) |
 | 8 | Linear Predictors | ⚙️ | M1 |
-| 9 | Boosting | 🗣 | E1 (after M3) |
+| 9 | Boosting | 🗣 | E1 (after M5) |
 | 10 | Model Selection and Validation | ✅ | M5 |
 | 11 | Convex Learning Problems | ✅ | M3 |
 | 12 | Regularization and Stability | ✅ | M1/M3 |
 | 13 | Stochastic Gradient Descent | ✅ | M3 |
 | 14 | Support Vector Machines | ⚙️ | M1 |
 | 15 | Kernel Methods | ✅ | M7 |
-| 16 | Multiclass | ⚙️ | E13 (inside M5) |
-| 17 | Decision Trees | 🗣 | E2 (after M5) |
+| 16 | Multiclass | ⚙️ | E13 (inside M5, after 28) |
+| 17 | Decision Trees | 🗣 | E2 (after M1) |
 | 18 | Neural Networks | ✅ | M2 |
 | 19 | Nearest Neighbor (with Belkin: simplicial interpolation) | 🗣 | M6 |
-| 20 | Online Learning | ⚙️ | M3 |
+| 20 | Online Learning | ⚙️ | M3 (session 18) |
 | 21 | Clustering | 🗣 | E3 (after M1) |
 | 22 | Dimensionality Reduction | 🔬 | — |
 | 23 | Generative Models | ✅ | M9 (integrated with Arora ch13 + papers) |
-| 24 | Feature Selection | 📖 | E4 (after M5) |
+| 24 | Feature Selection | 📖 | E4 (after M1) |
 | 25 | Rademacher Complexities | ✅ | M5 |
 | 26 | Covering Numbers | 🔬 | M5 |
 | 27 | Proof of the Fundamental Theorem of Learning Theory | 🗣 | M5 |
-| 28 | Multiclass Learnability | 📖 | E13 (inside M5) |
+| 28 | Multiclass Learnability | 📖 | E13 (inside M5, after 28) |
 | 29 | Compression Bounds | ⚙️ | M5 |
 | 30 | PAC-Bayes | ✅ | M5 |
 | App A–C | Linear Algebra / Probability / Concentration | 📖 | M0 |

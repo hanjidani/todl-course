@@ -54,6 +54,15 @@ flowchart LR
 | Track B | Advanced statistics seminar | B1–B6 | One 30-minute presentation, hand-built slides |
 | Capstone | Team projects | 6–8 weeks | Reproduction + genuine research extension |
 
+## Course storyline
+
+The sequence is one continuous argument, told in four acts:
+
+1. **Act I — Build the machine (M0–M3).** Math that is *just enough* → what a learning machine is → build a network with your own hands → understand the optimizer that drives it. Session 12 plants the mystery that the course will resolve: *a network fits pure noise perfectly and still generalizes.*
+2. **Act II — Why does it work? (M4–M6).** Nonconvex landscapes and why escaping them is easy in practice → the rigorous language of generalization (PAC, VC, Rademacher) → then the resolution of the mystery: double descent, benign overfitting, and implicit bias. Session 12's hook pays off in session 35.
+3. **Act III — What does a trained network look like? (M7–M8).** The kernel regime: infinite width makes a network a linear, convex object (NTK) → then the turn: real networks exit the kernel regime, learn features, and collapse into a rigid simplex geometry (neural collapse).
+4. **Act IV — Frontiers (M9–M10).** Generative modeling as score + optimal transport → transformers: in-context learning turns out to be gradient descent in disguise — closing the loop back to Act I. Track B runs alongside for the statistical foundations, and the extension sessions E1–E13 complete every remaining chapter of every book at the point where its prerequisites exist.
+
 ## Hard prerequisite chains (do not jump)
 
 - SSBD/Mohri basics → M5 → M6 (interpolation needs rigorous generalization language)
