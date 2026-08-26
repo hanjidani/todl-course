@@ -36,16 +36,16 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 | Module | Name | Sessions | Pass criterion |
 |---|---|---|---|
 | M0 | Math, just enough | 1–4 | One-line Hoeffding proof + norm concentration in numpy |
-| M1 | ML in 3 sentences | 5–8 | Bias-variance by hand + derive the min-norm solution |
-| M2 | Networks from scratch | 9–14 | Hand-built MLP + random-label experiment |
-| M3 | Optimization | 15–20 | GD/SGD/Adam curves + SGD noise covariance |
-| M4 | Nonconvex landscapes | 21–26 | "Symmetry ⇒ saddles" proof + landscape picture |
-| M5 | Rigorous generalization | 27–32 | VC of thresholds + a vacuous bound on a toy CNN |
-| M6 | Interpolation mysteries | 33–40 | Benign-overfitting phase diagram |
-| M7 | Kernels & NTK | 41–48 | Empirical NTK on MNIST |
-| M8 | Beyond kernels | 49–56 | Collapse simplex reproduction + lazy→feature sweep |
-| M9 | Generative models | 57–68 | 2D diffusion + minimax score-rate test |
-| M10 | Transformers & scaling | 69–74 | ICL reproduction + healthy skepticism |
+| M1 | ML in 3 sentences (+ toolbox: trees, clustering) | 5–10 | Bias-variance by hand + derive the min-norm solution |
+| M2 | Networks from scratch (+ GNN survey) | 11–17 | Hand-built MLP + random-label experiment |
+| M3 | Optimization (+ large-scale tradeoffs) | 18–24 | GD/SGD/Adam curves + SGD noise covariance |
+| M4 | Nonconvex landscapes | 25–30 | "Symmetry ⇒ saddles" proof + landscape picture |
+| M5 | Rigorous generalization (+ multiclass, boosting, ranking) | 31–39 | VC of thresholds + a vacuous bound on a toy CNN |
+| M6 | Interpolation mysteries | 40–47 | Benign-overfitting phase diagram |
+| M7 | Kernels & NTK | 48–55 | Empirical NTK on MNIST |
+| M8 | Beyond kernels | 56–63 | Collapse simplex reproduction + lazy→feature sweep |
+| M9 | Generative models | 64–75 | 2D diffusion + minimax score-rate test |
+| M10 | Transformers & scaling (+ attribution, RL) | 76–83 | ICL reproduction + healthy skepticism |
 | Track B | Statistics seminar | B1–B6 | One 30-minute presentation |
 
 ## 🧭 Explore

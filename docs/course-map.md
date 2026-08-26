@@ -66,8 +66,8 @@ The sequence is one continuous argument, told in four acts:
 ## Hard prerequisite chains (do not jump)
 
 - SSBD/Mohri basics → M5 → M6 (interpolation needs rigorous generalization language)
-- Kernels (M7, sessions 41–42) **before** NTK (43–44)
-- NTK (M7) before lazy-vs-rich (47) and before neural collapse (M8)
+- Kernels (M7, sessions 48–49) **before** NTK (50–51)
+- NTK (M7) before lazy-vs-rich (54) and before neural collapse (M8)
 
 ## Per-module structure
 

@@ -21,16 +21,16 @@
 | Module | Name | Sessions | Pass criterion |
 |---|---|---|---|
 | M0 | Math, just enough | 1–4 | One-line Hoeffding proof + norm concentration in numpy |
-| M1 | ML in 3 sentences | 5–8 | Bias-variance by hand + derive the min-norm solution |
-| M2 | Networks from scratch | 9–14 | Hand-built 2-layer MLP + random-label experiment |
-| M3 | Optimization | 15–20 | GD/SGD/Adam curves + measured SGD noise covariance |
-| M4 | Nonconvex landscapes | 21–26 | "Symmetry ⇒ saddles" proof + loss-landscape picture |
-| M5 | Rigorous generalization | 27–32 | VC of thresholds + a vacuous bound on a toy CNN |
-| M6 | Interpolation mysteries | 33–40 | Benign-overfitting phase diagram + hard-margin simulation |
-| M7 | Kernels & NTK | 41–48 | Empirical NTK on MNIST + "where NTK fails" answer |
-| M8 | Beyond kernels | 49–56 | Neural-collapse simplex reproduction + lazy→feature sweep |
-| M9 | Generative models | 57–68 | 2D diffusion + score-error rate test + why OT is its language |
-| M10 | Transformers & scaling | 69–74 | Linear-transformer ICL reproduction + healthy skepticism |
+| M1 | ML in 3 sentences (+ toolbox: trees, clustering) | 5–10 | Bias-variance by hand + derive the min-norm solution |
+| M2 | Networks from scratch (+ GNN survey) | 11–17 | Hand-built 2-layer MLP + random-label experiment |
+| M3 | Optimization (+ large-scale tradeoffs) | 18–24 | GD/SGD/Adam curves + measured SGD noise covariance |
+| M4 | Nonconvex landscapes | 25–30 | "Symmetry ⇒ saddles" proof + loss-landscape picture |
+| M5 | Rigorous generalization (+ multiclass, boosting, ranking) | 31–39 | VC of thresholds + a vacuous bound on a toy CNN |
+| M6 | Interpolation mysteries | 40–47 | Benign-overfitting phase diagram + hard-margin simulation |
+| M7 | Kernels & NTK | 48–55 | Empirical NTK on MNIST + "where NTK fails" answer |
+| M8 | Beyond kernels | 56–63 | Neural-collapse simplex reproduction + lazy→feature sweep |
+| M9 | Generative models | 64–75 | 2D diffusion + score-error rate test + why OT is its language |
+| M10 | Transformers & scaling (+ attribution, RL) | 76–83 | Linear-transformer ICL reproduction + healthy skepticism |
 | Track B | Advanced statistics seminar | B1–B6 | One 30-minute presentation with hand-built slides |
 | Capstone | Team projects | 6–8 weeks | Reproduction + a genuine research extension |
 
