@@ -63,3 +63,17 @@ flowchart LR
 ## Per-module structure
 
 Every module ends with a **student seminar session** — papers are assigned 2 weeks ahead and presented by the students (15–20 min + 10 min discussion each).
+
+## Seminars
+
+Seminars (marked 🗣 in the [session sequence](session-sequence.html)) are **student-led sessions**: the presenter explains one paper — the problem, the main claim, the proof idea, and why it matters — pen-first, while the class asks questions and the instructor fills gaps only where needed. Several students present per session, so each module covers 3–6 papers beyond the lectures.
+
+### How seminar papers were chosen
+
+Seminar assignments were selected deliberately (not randomly from the literature), following five rules:
+
+1. **Prerequisite guarantee** — a paper is assigned only after every tool it needs was built in earlier sessions. The sequence never jumps: e.g., Jacot (NTK) only after kernels & RKHS; Bartlett et al. 2020 (benign overfitting) only after PAC/Rademacher.
+2. **Canonical and clean** — each paper is the originating or clearest statement of one course theme: expressivity → Cybenko · depth → Telgarsky · implicit bias → Soudry / Gunasekar · lazy-vs-rich → Woodworth / Chizat–Bach · collapse geometry → Lu–Steinerberger · score-estimation rates → Wibisono–Wu–Yang · in-context learning → von Oswald / Garg · induction heads → Olsson.
+3. **Complementarity per module** — theory and experimental papers are paired (e.g., M2: Cybenko + Telgarsky + Zhang's random-label experiment; M6: Belkin/Hastie phenomena + Soudry/Gunasekar theory).
+4. **Feasibility for beginners** — statements are self-contained, the required math was already built inside the course, and the experiments are reproducible on a laptop CPU. Genuinely hard statistical papers (gradient flows for empirical Bayes, learning GMMs via diffusion) are deliberately **not** seminar material — they live in the 🔬 research corner.
+5. **Research payoff** — seminar papers feed the [research tracks](research-tracks.html): each one leaves an open question that capstone teams can attack (e.g., *why does SGD reach the simplex ETF?*, *score-estimation rates on manifold-supported data?*).
