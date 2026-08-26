@@ -1,8 +1,11 @@
-remote_theme: just-the-docs
-
 title: "ToDL Course"
 description: "Theory of Deep Learning for Undergraduates — books × papers curriculum"
 url: "https://hanjidani.github.io"
+baseurl: "/todl-course"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
 
 # Navigation
 search_enabled: true
