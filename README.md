@@ -62,4 +62,4 @@ docs/
 
 ---
 
-*Instructor: Hossein Anjidani · Inspired by the NUS Theory-of-Deep-Learning reading group (Tan Kin Aun).*
+*Instructor: Hossein Anjidani · [hosseinanjidani2@gmail.com](mailto:hosseinanjidani2@gmail.com) · Inspired by the NUS Theory-of-Deep-Learning reading group (Tan Kin Aun).*

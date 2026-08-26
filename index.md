@@ -59,4 +59,8 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 
 ---
 
-> *Inspired by the NUS Theory-of-Deep-Learning reading group (Tan Kin Aun).*
+## Contact
+
+**Hossein Anjidani** — [hosseinanjidani2@gmail.com](mailto:hosseinanjidani2@gmail.com)
+
+*Inspired by the NUS Theory-of-Deep-Learning reading group (Tan Kin Aun).*

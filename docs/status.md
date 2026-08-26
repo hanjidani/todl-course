@@ -29,4 +29,4 @@ nav_order: 9
 
 ## Contact
 
-Instructor: **Hossein Anjidani** — open to feedback from professors and students; the whole point of publishing this planning is to be corrected and improved.
+Instructor: **Hossein Anjidani** — [hosseinanjidani2@gmail.com](mailto:hosseinanjidani2@gmail.com) — open to feedback from professors and students; the whole point of publishing this planning is to be corrected and improved.
