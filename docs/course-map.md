@@ -24,6 +24,18 @@ flowchart LR
     style CAP fill:#efe,stroke:#9b9
 ```
 
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.8/dist/mermaid.min.js"></script>
+<script>
+  (function () {
+    var nodes = document.querySelectorAll("code.language-mermaid");
+    if (nodes.length === 0) { return; }
+    if (window.mermaid) { mermaid.initialize({ startOnLoad: false }); }
+    window.addEventListener("load", function () {
+      if (window.mermaid) { mermaid.run({ nodes: nodes }); }
+    });
+  })();
+</script>
+
 ## Modules & mastery criteria
 
 | Mod | Name | Sessions | Mastery criterion (must-pass) |
