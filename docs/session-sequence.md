@@ -4,9 +4,10 @@ title: Session sequence
 nav_order: 3
 ---
 
-# Session sequence — 83 sessions, fully interleaved
+# Session sequence — 87 sessions, fully interleaved
 
 > Each row = one session (2h equivalent). Extension sessions (E-tags) are **numbered inline** — they are real sessions added to the flow, not side notes. Reading assignments (📖 homework) are listed per module without a number.
+> ⭐ **Splits:** 4 sessions run as **a/b pairs** (two 2h sessions each) because their content exceeds 2h: **S08** (min-norm + kernels + SVM), **S35** (Occam/compression + PAC-Bayes), **S64** (VAE/flows + GANs), **S76** (attention/transformers + self-supervised). Total: 87 session plans.
 > Roles: 🎓 in-class · 🗣 student seminar · 📖 homework · 🔬 research corner · 📋 teacher reference. Papers are interleaved between book chapters at the point where they belong.
 
 ## M0 — Math, just enough (1–4)
@@ -65,7 +66,7 @@ nav_order: 3
 | 26 | Arora ch6 · 🎓 | Perturbed GD, escaping saddles |
 | 27 | Reading slides ch6 + Belkin §4 · 📖🗣 | PL\*, depth |
 | 28 | Reading slides ch7 + Li et al. 2018 · 📖🎓 | Live: loss-landscape visualization |
-| 29 | Keskar 2017 + Frankle–Carlin 2019 · 🗣 | Flat minima, lottery tickets |
+| 29 | Keskar 2017 + Frankle & Carbin 2019 · 🗣 | Flat minima, lottery tickets |
 | 30 | M4 seminar + review · 🗣 | — |
 
 ## M5 — Rigorous generalization (31–39)

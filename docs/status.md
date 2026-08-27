@@ -12,7 +12,7 @@ nav_order: 9
 - [x] Gap analysis (10 gaps with canonical references)
 - [x] Chapter breakdown of all source books (real TOCs) — `book-chapters-1.md`, `book-chapters-2.md`
 - [x] Module map with mastery criteria — `course-map.md`
-- [x] 83-session sequence (74 core + 9 in-class extensions), books × papers — `session-sequence.md`
+- [x] 87-session sequence (83 planned + 4 a/b split pairs), books × papers — `session-sequence.md`
 - [x] Research tracks + capstone — `research-tracks.md`
 
 ## In progress 🔜
