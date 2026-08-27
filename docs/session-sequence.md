@@ -160,7 +160,7 @@ Reproduce one of the four [capstone projects](research-tracks.html) + a research
 
 ## Counting
 
-- **83 numbered sessions** = 74 core lectures/seminars/workshops + **9 in-class extension sessions** (E1, E2, E3, E5, E6, E7, E8, E12, E13), all interleaved and numbered
+- **87 session plans** = 74 core lectures/seminars/workshops + **9 in-class extension sessions** (E1–E13) + **4 a/b split pairs** (S08, S35, S64, S76), all interleaved and numbered
 - **3 reading assignments** (E4, E9, E11) — 📖 homework with a 3-question checklist, no class slot
 - Capstone 6–8 weeks
 - Every chapter of every book is covered (see [Book chapters I](book-chapters-1.html) & [II](book-chapters-2.html))

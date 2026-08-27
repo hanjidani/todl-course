@@ -4,29 +4,23 @@ title: Status
 nav_order: 9
 ---
 
-# Status & roadmap
+# Status
 
-## Done ✅
+## Planning — complete ✅
 
-- [x] Full corpus analysis (NUS reading-group papers: benign overfitting, NTK, neural collapse, diffusion, ToDL slides)
-- [x] Gap analysis (10 gaps with canonical references)
-- [x] Chapter breakdown of all source books (real TOCs) — `book-chapters-1.md`, `book-chapters-2.md`
-- [x] Module map with mastery criteria — `course-map.md`
-- [x] 87-session sequence (83 planned + 4 a/b split pairs), books × papers — `session-sequence.md`
-- [x] Research tracks + capstone — `research-tracks.md`
+The full course plan is live on this site:
 
-## In progress 🔜
+- 13 modules · **87 sessions** (83 planned; sessions 08, 35, 64, 76 run as two-part a/b sessions)
+- 6 books × 40+ papers, every chapter covered — see [Course map](course-map.html) and [Session sequence](session-sequence.html)
+- 3 research tracks + 4 capstone projects
 
-- [ ] Course notes & session scripts (instructor's materials — being prepared, will be added here)
-- [ ] Live session reports as the course runs
-- [ ] Student workshop notebooks (reproducibility exercises from sessions 12, 40, 46, 54, 61, 66, 72)
+## Coming next 🔜
 
-## House rules for this repo
-
-- **Planning and notes only.** Book/paper PDFs are intentionally **not** hosted here (copyright); they are private instructor materials.
-- English is the working language of the repo.
-- This planning mirrors the instructor's private vault (Obsidian); the public repo is the shareable landing page.
+- **Course notes** — handwritten tablet pages from each session, added to the [Notes](notes.html) page as the course runs
+- **Live session reports** — what actually happened in each class, recorded after the session
 
 ## Contact
 
 Instructor: **Hossein Anjidani** — [hosseinanjidani2@gmail.com](mailto:hosseinanjidani2@gmail.com) — open to feedback from professors and students; the whole point of publishing this planning is to be corrected and improved.
+
+> Note: book/paper PDFs are not hosted here (copyright); they are private instructor materials shared with enrolled students.

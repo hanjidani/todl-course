@@ -53,6 +53,7 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 - **[Session sequence](docs/session-sequence.html)** — all 87 sessions (4 split pairs), extensions interleaved and numbered
 - **[Book chapters](docs/book-chapters-1.html)** — chapter breakdown of every source (+ [part 2](docs/book-chapters-2.html))
 - **[Sources](docs/sources.html)** — every book & paper, with direct links
+- **[Course notes](docs/notes.html)** — handwritten tablet notes from each session, added as the course runs
 - **[Research tracks](docs/research-tracks.html)** — 3 tracks + capstone projects with open problems
 - **[Status](docs/status.html)** — roadmap, live checklist
 

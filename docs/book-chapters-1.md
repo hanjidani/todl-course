@@ -6,6 +6,8 @@ nav_order: 4
 
 # Book chapters (1/2) — Arora, Ye, SSBD
 
+> **Program:** 87 sessions · 13 modules · 6 books × 40+ papers — [full sequence](session-sequence.html)
+
 > Status legend: ✅ full coverage in class · ⚙️ selected sections in class · 🗣 student seminar · 📖 assigned reading · 🔬 research corner · 📋 teacher material (used to prepare sessions).
 > **No out-of-scope topics:** every chapter has an assignment — main modules, extension sessions E1–E13 (see [session sequence](session-sequence.html)), or the research corner.
 > Module column refers to the [course map](course-map.html).

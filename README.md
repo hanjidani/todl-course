@@ -49,7 +49,8 @@ docs/
 ├── course-map.md         ← modules, mastery criteria, pacing
 ├── session-sequence.md   ← 87 sessions, extensions interleaved (E1–E13), 4 split a/b pairs
 ├── research-tracks.md    ← 3 research tracks + capstone ideas
-└── status.md             ← roadmap / what's coming (course notes, live sessions)
+├── notes.md              ← handwritten course notes (added as the course runs)
+└── status.md             ← public status + contact
 ```
 
 ## Status
