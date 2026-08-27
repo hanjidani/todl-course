@@ -9,7 +9,7 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 
 **Theory of Deep Learning for Undergraduates** — a complete, self-paced curriculum that takes fresh BSc students with zero ML background to the research frontier.
 
-> **Supervised by Mohammad Mahdi Mojahedian** (Sharif University of Technology)
+> **Supervised by Dr. Mohammad Mahdi Mojahedian** (Sharif University of Technology)
 >
 > Instructor: **Hossein Anjidani**
 
