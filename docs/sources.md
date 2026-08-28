@@ -15,6 +15,12 @@ nav_order: 8
 | Source | Type | Get it |
 |---|---|---|
 | **Arora et al., *Theory of Deep Learning*** (course spine) | draft book | Instructor's copy (private vault) · [Princeton COS597B course](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/) |
+| **Goodfellow, Bengio & Courville, *Deep Learning*** (MIT Press) | book | 🆓 [Full official PDF (deeplearningbook.org)](https://www.deeplearningbook.org/) |
+| **Hazan, *Introduction to Online Convex Optimization*** | book | 🆓 [Full official PDF (ocobook.cs.princeton.edu)](https://ocobook.cs.princeton.edu/) |
+| **Moitra, *Algorithmic Aspects of Machine Learning*** | lecture notes | 🆓 [Author PDF (people.csail.mit.edu)](http://people.csail.mit.edu/moitra/docs/bookex.pdf) |
+| **Blum, Hopcroft & Kannan, *Foundations of Data Science*** | book | 🆓 [Author PDF (cs.cornell.edu)](https://www.cs.cornell.edu/jeh/book2016June9.pdf) |
+| **Nielsen, *Neural Networks and Deep Learning*** | book | 🆓 [Full online edition](http://neuralnetworksanddeeplearning.com/) |
+| **Collins, *Language Modeling* (course notes)** | lecture notes | 🆓 [Columbia PDF](https://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf) |
 | **Ye, *Geometry of Deep Learning*** (Springer, Math in Industry 37) | book | [Springer page](https://link.springer.com/book/10.1007/978-981-19-5219-3) |
 | **Vershynin, *High-Dimensional Probability* (2nd ed., 2026 preprint)** | book | 🆓 [Official author PDF (math.uci.edu)](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf) |
 | **Shalev-Shwartz & Ben-David, *Understanding Machine Learning*** | book | 🆓 [Official author PDF (cs.huji.ac.il)](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) |
@@ -79,6 +85,30 @@ nav_order: 8
 - Kaplan et al., *Scaling laws for neural language models* — 🆓 [arXiv:2001.08361](https://arxiv.org/abs/2001.08361)
 - Hoffmann et al., *Training compute-optimal large language models* — 🆓 [arXiv:2203.15556](https://arxiv.org/abs/2203.15556)
 - Bahri et al., *Explaining neural scaling laws* — 🆓 [arXiv:2102.06701](https://arxiv.org/abs/2102.06701)
+
+### Princeton block (S84–S97, from COS597A/G/B)
+- Barron, *Universal approximation bounds for superpositions of a sigmoidal function* — [IEEE Trans. IT 39(3), 1993](http://www.stat.yale.edu/~arb4/publications_files/UniversalApproximationBoundsForSuperpositionsOfASigmoidalFunction.pdf)
+- Anandkumar, Ge, Hsu, Kakade, Telgarsky, *Tensor decompositions for learning latent variable models* — 🆓 [arXiv:1210.7559](https://arxiv.org/abs/1210.7559)
+- Arora et al., *A practical algorithm for topic modeling with provable guarantees* — 🆓 [arXiv:1212.4777](https://arxiv.org/abs/1212.4777)
+- Jin, Ge, Netrapalli, Kakade, Jordan, *How to escape saddle points efficiently* — 🆓 [arXiv:1703.00887](https://arxiv.org/abs/1703.00887)
+- Neyshabur et al., *Path-SGD: path-normalized optimization in deep networks* — 🆓 [arXiv:1506.02617](https://arxiv.org/abs/1506.02617)
+- Agarwal, Bullins, Hazan, *Second-order stochastic optimization for ML in linear time (LiSSA)* — 🆓 [arXiv:1602.03943](https://arxiv.org/abs/1602.03943)
+- Li & Arora, *An exponential learning rate schedule for deep learning* — 🆓 [arXiv:1910.07454](https://arxiv.org/abs/1910.07454)
+- Du, Zhai, Poczos, Singh, *Gradient descent provably optimizes over-parameterized neural networks* — 🆓 [arXiv:1810.02054](https://arxiv.org/abs/1810.02054)
+- Arora, Ge, Liang, Ma, Zhang, *Generalization and equilibrium in GANs* — 🆓 [arXiv:1703.00573](https://arxiv.org/abs/1703.00573)
+- Arora, Risteski, Zhang, *Theoretical limitations of encoder-decoder GAN architectures* — 🆓 [arXiv:1711.02651](https://arxiv.org/abs/1711.02651)
+- Jin, Netrapalli, Jordan, *What is local optimality in nonconvex-nonconcave minimax optimization?* — 🆓 [arXiv:1902.00618](https://arxiv.org/abs/1902.00618)
+- Arora & Risteski, *Provable benefits of representation learning* — 🆓 [arXiv:1706.04601](https://arxiv.org/abs/1706.04601)
+- Burda, Grosse, Salakhutdinov, *Importance weighted autoencoders* — 🆓 [arXiv:1509.00519](https://arxiv.org/abs/1509.00519)
+- Arora, Li, Liang, Ma, Risteski, *A latent variable model approach to PMI-based word embeddings* (TACL 2016) — [ACL anthology Q16-1028](https://aclanthology.org/Q16-1028/)
+- Arora, Liang, Ma, *A simple but tough-to-beat baseline for sentence embeddings* (ICLR 2017) — [OpenReview SyK00v5xx](https://openreview.net/forum?id=SyK00v5xx)
+- Liu et al., *Delving into transferable adversarial examples and black-box attacks* — 🆓 [arXiv:1611.02770](https://arxiv.org/abs/1611.02770)
+- Tramèr et al., *The space of transferable adversarial examples* — 🆓 [arXiv:1704.03453](https://arxiv.org/abs/1704.03453)
+- Madry et al., *Towards deep learning models resistant to adversarial attacks* — 🆓 [arXiv:1706.06083](https://arxiv.org/abs/1706.06083)
+- Wong & Kolter, *Provable defenses against adversarial examples via the convex outer adversarial polytope* — 🆓 [arXiv:1711.00851](https://arxiv.org/abs/1711.00851)
+- Steinhardt, Koh, Liang, *Certified defenses for data poisoning attacks* — 🆓 [arXiv:1706.03691](https://arxiv.org/abs/1706.03691)
+- Ge, Lee, Ma, *Matrix completion has no spurious local minimum* — 🆓 [arXiv:1605.07272](https://arxiv.org/abs/1605.07272)
+- Tropp, *An introduction to matrix concentration inequalities* — 🆓 [arXiv:1501.01571](https://arxiv.org/abs/1501.01571)
 
 ---
 

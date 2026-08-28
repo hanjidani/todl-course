@@ -7,7 +7,7 @@ has_children: false
 
 # Course map — modules, mastery, pacing
 
-> 13 modules, **87 sessions** (83 planned; S08, S35, S64, S76 split into a/b pairs), plus a 6–8 week capstone. Pace is **module-based, not hour-based**: pass the mastery criterion, then move on.
+> 13 modules, **101 sessions** (83 planned + 14 Princeton-block S84–S97; S08, S35, S64, S76 split into a/b pairs), plus a 6–8 week capstone. Pace is **module-based, not hour-based**: pass the mastery criterion, then move on.
 
 ## Module flow
 

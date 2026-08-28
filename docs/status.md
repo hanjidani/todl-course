@@ -10,7 +10,7 @@ nav_order: 9
 
 The full course plan is live on this site:
 
-- 13 modules · **87 sessions** (83 planned; sessions 08, 35, 64, 76 run as two-part a/b sessions)
+- 13 modules · **101 sessions** (83 planned + 14 Princeton-block S84–S97; sessions 08, 35, 64, 76 run as two-part a/b sessions)
 - 6 books × 40+ papers, every chapter covered — see [Course map](course-map.html) and [Session sequence](session-sequence.html)
 - 3 research tracks + 4 capstone projects
 

@@ -4,10 +4,11 @@ title: Session sequence
 nav_order: 3
 ---
 
-# Session sequence — 87 sessions, fully interleaved
+# Session sequence — 101 sessions, fully interleaved
 
 > Each row = one session (2h equivalent). Extension sessions (E-tags) are **numbered inline** — they are real sessions added to the flow, not side notes. Reading assignments (📖 homework) are listed per module without a number.
-> ⭐ **Splits:** 4 sessions run as **a/b pairs** (two 2h sessions each) because their content exceeds 2h: **S08** (min-norm + kernels + SVM), **S35** (Occam/compression + PAC-Bayes), **S64** (VAE/flows + GANs), **S76** (attention/transformers + self-supervised). Total: 87 session plans.
+> ⭐ **Splits:** 4 sessions run as **a/b pairs** (two 2h sessions each) because their content exceeds 2h: **S08** (min-norm + kernels + SVM), **S35** (Occam/compression + PAC-Bayes), **S64** (VAE/flows + GANs), **S76** (attention/transformers + self-supervised).
+> ⭐ **Princeton block:** 14 sessions (**S84–S97**) distilled from Sanjeev Arora's COS597A/G/B reading lists — extensions of M2/M3/M4/M6/M9/M10 plus a frontier block (adversarial robustness, teaching/curriculum). Total: 101 session plans.
 > Roles: 🎓 in-class · 🗣 student seminar · 📖 homework · 🔬 research corner · 📋 teacher reference. Papers are interleaved between book chapters at the point where they belong.
 
 ## M0 — Math, just enough (1–4)
@@ -154,13 +155,34 @@ nav_order: 3
 | **82** | **E6 — Arora ch9 · 🗣** | **Credit attribution: influence functions, Shapley, saliency** |
 | **83** | **E7 — Mohri ch17 · 🗣** | **Reinforcement learning crash course: MDP, planning, learning** |
 
+## Princeton frontier block (84–97)
+
+> Source courses: COS597A (Fall 2017, New Directions in TML) · COS597G (Fall 2018) · COS597B (Fall 2019) — all by Sanjeev Arora.
+
+| # | Source | Topic |
+|---|---|---|
+| 84 | Barron 1993 + Telgarsky slides · 🎓 | Approximation rates — Barron's theorem (M2 ext) |
+| 85 | Anandkumar–Ge–Hsu–Kakade–Telgarsky + Moitra ch3 · 🗣🎓 | Tensor decompositions for latent variable models (M2 ext) |
+| 86 | Arora et al. 2012 + Moitra ch2 + SOS (🔬) · 🗣🎓 | Topic models & NMF with provable guarantees (M2 ext) |
+| 87 | Hazan OCO (AdaGrad) + Path-SGD + LiSSA + Li–Arora · 🎓 | Adaptive optimization: AdaGrad, Adam, second-order light (M3 ext) |
+| 88 | Du–Zhai–Poczos–Singh 2018 · 🎓 | Why GD trains overparameterized nets (M6 ext) |
+| 89 | Cohen lecture notes + Gunasekar et al. · 🎓 | Implicit regularization via dynamics: deep linear nets (M6 ext) |
+| 90 | Arora–Ge–Liang–Ma–Zhang + Arora–Risteski–Zhang + Goodfellow tutorial · 🗣 | GAN theory: equilibrium, mode collapse, birthday paradox (M9 ext) |
+| 91 | Arora–Risteski + IWAE + Vincent et al. · 🗣 | What makes representations useful (M9 ext) |
+| 92 | Collins LM notes + CS224d + Karpathy/Olah · 🎓 | Language-modeling foundations: n-grams → neural (M10 ext) |
+| 93 | Arora TACL 2016 + SIF baseline (ICLR 2017) · 🗣 | Word & sentence embeddings: a theory (M10 ext) |
+| 94 | Liu et al. + Tramèr et al. + Madry et al. · 🗣 | Adversarial examples: the attack side (frontier) |
+| 95 | Wong–Kolter + Wong et al. + Steinhardt et al. · 🗣 | Certified defenses & data poisoning (frontier) |
+| 96 | Ge–Lee–Ma + Moitra ch4/ch7 + Frank–Wolfe · 🎓 | No spurious minima: matrix completion & compressed sensing (M4 ext) |
+| 97 | Zhu + Bengio et al. + Abbeel (notes) · 🗣 | Beyond IID learning: teaching, curriculum, interaction (frontier) |
+
 ## Capstone (6–8 weeks, teams)
 
 Reproduce one of the four [capstone projects](research-tracks.html) + a research extension; final 20-minute talk.
 
 ## Counting
 
-- **87 session plans** = 74 core lectures/seminars/workshops + **9 in-class extension sessions** (E1–E13) + **4 a/b split pairs** (S08, S35, S64, S76), all interleaved and numbered
+- **101 session plans** = 74 core lectures/seminars/workshops + **9 in-class extension sessions** (E1–E13) + **4 a/b split pairs** (S08, S35, S64, S76) + **14 Princeton block sessions** (S84–S97), all interleaved and numbered
 - **3 reading assignments** (E4, E9, E11) — 📖 homework with a 3-question checklist, no class slot
 - Capstone 6–8 weeks
 - Every chapter of every book is covered (see [Book chapters I](book-chapters-1.html) & [II](book-chapters-2.html))
