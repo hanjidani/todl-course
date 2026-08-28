@@ -16,10 +16,18 @@ flowchart LR
     M0["M0 · Math"] --> M1["M1 · ML basics"] --> M2["M2 · Networks"] --> M3["M3 · Optimization"] --> M4["M4 · Landscapes"]
     M4 --> M5["M5 · Generalization"] --> M6["M6 · Interpolation"] --> M7["M7 · Kernels and NTK"]
     M7 --> M8["M8 · Beyond kernels"] --> M9["M9 · Generative"] --> M10["M10 · Transformers"]
-    M10 --> CAP["Capstone"]
+    M10 --> PB["Princeton block · S84–S97"]
+    PB --> COS["COS511 track · S98–S99"]
+    M2 -. "extensions" .-> PB
+    M3 -. "extensions" .-> PB
+    M6 -. "extensions" .-> PB
+    M9 -. "extensions" .-> PB
+    COS --> CAP["Capstone"]
     M9 --> CAP
     M7 -. "lazy/rich bridge" .-> M8
     style M0 fill:#eef,stroke:#99b
+    style PB fill:#fdf,stroke:#b9b
+    style COS fill:#fdf,stroke:#b9b
     style CAP fill:#efe,stroke:#9b9
 ```
 
@@ -50,6 +58,8 @@ flowchart LR
 | M8 | Beyond kernels | 56–63 | NC1–NC4 simplex reproduction + lazy→feature width sweep |
 | M9 | Generative models | 64–75 | 2D diffusion + score-error rate test + "why OT is its language" |
 | M10 | Transformers & scaling (+ attribution, RL) | 76–83 | Linear-transformer ICL reproduction + healthy skepticism on emergence |
+| ⭐ Princeton block | S84–S97: approximation rates (84), tensors & topic models (85–86), adaptive optimization (87), overparam GD & linear-net dynamics (88–89), GAN theory (90), representation learning (91), LM & embeddings (92–93), adversarial attacks & certified defenses (94–95), no-spurious-minima (96), teaching/curriculum (97) | M2 ext: state Barron's O(1/n) bound · M3 ext: AdaGrad regret vs GD · M6 ext: explain width's role in zero-train-loss · M9 ext: birthday-paradox generalization test · frontier: PGD attack + convex-outer defense on a toy net |
+| ⭐ COS511 track | S98–S99: multiplicative weights & EG (98), online log loss, shifting experts, portfolios, games (99) | Prove the Weighted Majority regret bound + run fixed-share vs Bayes on a shifted sequence |
 | Capstone | Team projects | 6–8 weeks | Reproduction + genuine research extension |
 
 ## Course storyline
@@ -59,7 +69,7 @@ The sequence is one continuous argument, told in four acts:
 1. **Act I — Build the machine (M0–M3).** Math that is *just enough* → what a learning machine is → build a network with your own hands → understand the optimizer that drives it. Session 14 plants the mystery that the course will resolve: *a network fits pure noise perfectly and still generalizes.*
 2. **Act II — Why does it work? (M4–M6).** Nonconvex landscapes and why escaping them is easy in practice → the rigorous language of generalization (PAC, VC, Rademacher) → then the resolution of the mystery: double descent, benign overfitting, and implicit bias. Session 14's hook pays off in session 42.
 3. **Act III — What does a trained network look like? (M7–M8).** The kernel regime: infinite width makes a network a linear, convex object (NTK) → then the turn: real networks exit the kernel regime, learn features, and collapse into a rigid simplex geometry (neural collapse).
-4. **Act IV — Frontiers (M9–M10).** Generative modeling as score + optimal transport → transformers: in-context learning turns out to be gradient descent in disguise — closing the loop back to Act I. The 9 in-class extension sessions (E1–E13) and 3 reading assignments complete every remaining chapter of every book at the point where its prerequisites exist.
+4. **Act IV — Frontiers (M9–M10).** Generative modeling as score + optimal transport → transformers: in-context learning turns out to be gradient descent in disguise — closing the loop back to Act I. Then the **Princeton block (S84–S97)** harvests Arora's COS597 A/G/B reading lists — Barron's rates, tensor methods, adaptive optimization, GAN/embedding theory, adversarial robustness — and the **COS511 track (S98–S99)** adds the classical online-learning sequence (weighted majority → log loss → games). The 9 in-class extension sessions (E1–E13), the two added blocks, and 3 reading assignments complete every remaining chapter of every book at the point where its prerequisites exist.
 
 ## Hard prerequisite chains (do not jump)
 

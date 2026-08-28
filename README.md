@@ -47,7 +47,7 @@ docs/
 ├── book-chapters-1.md    ← chapter breakdown: Arora / Ye / SSBD
 ├── book-chapters-2.md    ← chapter breakdown: Vershynin / Mohri / Sra / surveys
 ├── course-map.md         ← modules, mastery criteria, pacing
-├── session-sequence.md   ← 103 sessions, extensions interleaved (E1–E13), 4 split a/b pairs, 14 Princeton-block (S84–S97)
+├── session-sequence.md   ← 103 sessions, extensions interleaved (E1–E13), 4 split a/b pairs, Princeton block (S84–S97), COS511 track (S98–S99)
 ├── research-tracks.md    ← 3 research tracks + capstone ideas
 ├── notes.md              ← handwritten course notes (added as the course runs)
 └── status.md             ← public status + contact

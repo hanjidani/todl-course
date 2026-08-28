@@ -21,7 +21,7 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 |---|---|
 | 🎯 **Audience** | Fresh BSc students, zero background required |
 | 📚 **Content** | 11 books × 75+ papers, woven into one path — **every chapter of every book is covered** |
-| 📏 **Structure** | 103 sessions (74 core + 9 in-class extensions; 4 as a/b split pairs; 14 Princeton-block sessions) across 13 modules |
+| 📏 **Structure** | 103 sessions (74 core + 9 in-class extensions + 4 a/b split pairs + 14 Princeton-block S84–S97 + 2 COS511 S98–S99) across 13 modules |
 | 🔬 **Outcome** | Research-ready: every module ends in a reproduction workshop |
 | ⚖️ **Pace** | Precision over speed — module-based mastery, no rushing |
 
