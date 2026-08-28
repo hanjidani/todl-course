@@ -31,6 +31,8 @@
 | M8 | Beyond kernels | 56–63 | Neural-collapse simplex reproduction + lazy→feature sweep |
 | M9 | Generative models | 64–75 | 2D diffusion + score-error rate test + why OT is its language |
 | M10 | Transformers & scaling (+ attribution, RL) | 76–83 | Linear-transformer ICL reproduction + healthy skepticism |
+| ⭐ Princeton block (Arora COS597 A/G/B) | Approximation rates · tensors & topic models · adaptive optimization · overparam GD & linear-net dynamics · GAN theory · representations · LM & embeddings · adversarial & certified defenses · matrix completion · teaching/curriculum | 84–97 | Barron's O(1/n) bound · AdaGrad regret vs GD · birthday-paradox test · PGD attack + convex-outer defense |
+| ⭐ COS511 track (Arora Theoretical ML) | Multiplicative weights & EG · online log loss, shifting experts, portfolios, games | 98–99 | Prove the Weighted Majority regret bound + fixed-share vs Bayes on a shifted sequence |
 | Capstone | Team projects | 6–8 weeks | Reproduction + a genuine research extension |
 
 ## What students read (books × papers)
