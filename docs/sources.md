@@ -21,6 +21,11 @@ nav_order: 8
 | **Blum, Hopcroft & Kannan, *Foundations of Data Science*** | book | 🆓 [Author PDF (cs.cornell.edu)](https://www.cs.cornell.edu/jeh/book2016June9.pdf) |
 | **Nielsen, *Neural Networks and Deep Learning*** | book | 🆓 [Full online edition](http://neuralnetworksanddeeplearning.com/) |
 | **Collins, *Language Modeling* (course notes)** | lecture notes | 🆓 [Columbia PDF](https://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf) |
+| **Kearns & Vazirani, *An Introduction to Computational Learning Theory*** | book | [MIT Press page](https://mitpress.mit.edu/9780262111935/an-introduction-to-computational-learning-theory/) (instructor copy in vault) |
+| **Schapire & Freund, *Boosting: Foundations and Algorithms*** | book | [MIT Press page](https://mitpress.mit.edu/9780262017183/boosting/) (S38 seminar source) |
+| **Cesa-Bianchi & Lugosi, *Prediction, Learning, and Games*** | book | [Cambridge page](https://www.cambridge.org/core/books/prediction-learning-and-games/2FE5A09AB0D7BDF41B2B4BCE18BB1E6A) (S99, ch.9) |
+| **Vapnik, *The Nature of Statistical Learning Theory*** | book | [Springer page](https://link.springer.com/book/10.1007/978-1-4757-2440-0) (sections 5.4–5.8, SVM) |
+| **Valiant, *Probably Approximately Correct*** | book | [Basic Books page](https://www.basicbooks.com/titles/leslie-valiant/probably-approximately-correct/9780465032716/) (ch.1, PAC motivation) |
 | **Ye, *Geometry of Deep Learning*** (Springer, Math in Industry 37) | book | [Springer page](https://link.springer.com/book/10.1007/978-981-19-5219-3) |
 | **Vershynin, *High-Dimensional Probability* (2nd ed., 2026 preprint)** | book | 🆓 [Official author PDF (math.uci.edu)](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf) |
 | **Shalev-Shwartz & Ben-David, *Understanding Machine Learning*** | book | 🆓 [Official author PDF (cs.huji.ac.il)](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) |
@@ -109,6 +114,21 @@ nav_order: 8
 - Steinhardt, Koh, Liang, *Certified defenses for data poisoning attacks* — 🆓 [arXiv:1706.03691](https://arxiv.org/abs/1706.03691)
 - Ge, Lee, Ma, *Matrix completion has no spurious local minimum* — 🆓 [arXiv:1605.07272](https://arxiv.org/abs/1605.07272)
 - Tropp, *An introduction to matrix concentration inequalities* — 🆓 [arXiv:1501.01571](https://arxiv.org/abs/1501.01571)
+
+### COS511 track (S98–S99, from *Theoretical Machine Learning*, Princeton Spring 2019)
+- Valiant, *A theory of the learnable* (CACM 1984) — the founding PAC paper — [DOI 10.1145/1968.1972](https://doi.org/10.1145/1968.1972)
+- Vapnik & Chervonenkis, *On the uniform convergence of relative frequencies of events to their probabilities* (1971) — [DOI 10.1137/1116025](https://doi.org/10.1137/1116025)
+- Blumer, Ehrenfeucht, Haussler & Warmuth, *Occam's razor* (IPL 1987) — [DOI 10.1016/0020-0190(87)90114-1](https://doi.org/10.1016/0020-0190(87)90114-1)
+- Hoeffding, *Probability inequalities for sums of bounded random variables* (JASA 1963) — [DOI 10.1080/01621459.1963.10500830](https://doi.org/10.1080/01621459.1963.10500830)
+- Boucheron, Bousquet & Lugosi, *Theory of classification: a survey of some recent advances* (ESAIM: PS 2005) — 🆓 [Author PDF (esaim-ps.org)](https://www.esaim-ps.org/articles/ps/pdf/2005/01/ps0420.pdf)
+- Burges, *A tutorial on support vector machines for pattern recognition* (DMKD 1998) — 🆓 [Author PDF (research.microsoft.com)](http://research.microsoft.com/pubs/67119/svmtutorial.pdf)
+- Della Pietra, Della Pietra & Lafferty, *Inducing features of random fields* (IEEE PAMI 1997) — maxent
+- Littlestone & Warmuth, *The weighted majority algorithm* (Inf. Comput. 1994) — [DOI 10.1006/inco.1994.1089](https://doi.org/10.1006/inco.1994.1089)
+- Kivinen & Warmuth, *Exponentiated gradient versus gradient descent for linear predictors* (Inf. Comput. 1997) — [DOI 10.1006/inco.1996.2612](https://doi.org/10.1006/inco.1996.2612)
+- Herbster & Warmuth, *Tracking the best expert* (Machine Learning 1998) — [DOI 10.1023/A:1007424614876](https://doi.org/10.1023/A:1007424614876)
+- Blum & Kalai, *Universal portfolios with and without transaction costs* (Machine Learning 1999) — [DOI 10.1023/A:1007530728748](https://doi.org/10.1023/A:1007530728748)
+- Freund & Schapire, *Game theory, on-line prediction and boosting* (COLT 1996) + *Adaptive game playing using multiplicative weights* (GEB 1999) — [DOI 10.1006/game.1998.0706](https://doi.org/10.1006/game.1998.0706)
+- Schapire, *Explaining AdaBoost* (2013, Festschrift for Vapnik) — 🆓 [Author PDF (rob.schapire.net)](https://rob.schapire.net/papers/explaining-adaboost.pdf)
 
 ---
 
