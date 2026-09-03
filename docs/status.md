@@ -10,7 +10,7 @@ nav_order: 9
 
 The full course plan is live on this site:
 
-- 13 modules · **103 sessions** (74 core + 9 extensions + 4 split pairs a/b + 14 Princeton-block S84–S97 + 2 COS511 S98–S99; sessions 08, 35, 64, 76 run as two-part a/b sessions)
+- 13 modules · **104 sessions** (1 foundation refresher S00 + 74 core + 9 extensions + 4 split pairs a/b + 14 Princeton-block S84–S97 + 2 COS511 S98–S99; sessions 08, 35, 64, 76 run as two-part a/b sessions)
 - 11 books × 75+ papers, every chapter covered — see [Course map](course-map.html) and [Session sequence](session-sequence.html)
 - 3 research tracks + 4 capstone projects
 

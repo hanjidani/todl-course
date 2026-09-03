@@ -20,7 +20,7 @@
 
 | Module | Name | Sessions | Pass criterion |
 |---|---|---|---|
-| M0 | Math, just enough | 1–4 | One-line Hoeffding proof + norm concentration in numpy |
+| M0 | Foundations + math, just enough | S00–S04 | Expectation/variance + Chebyshev, then one-line Hoeffding proof + norm concentration |
 | M1 | ML in 3 sentences (+ toolbox: trees, clustering) | 5–10 | Bias-variance by hand + derive the min-norm solution |
 | M2 | Networks from scratch (+ GNN survey) | 11–17 | Hand-built 2-layer MLP + random-label experiment |
 | M3 | Optimization (+ large-scale tradeoffs) | 18–24 | GD/SGD/Adam curves + measured SGD noise covariance |
@@ -37,9 +37,9 @@
 
 ## What students read (books × papers)
 
-**Books (6):** Arora et al., *Theory of Deep Learning* · Ye, *Geometry of Deep Learning* · Vershynin, *High-Dimensional Probability* (2nd ed.) · Shalev-Shwartz & Ben-David, *Understanding ML* · Mohri et al., *Foundations of ML* (2nd ed.) · Sra, Nowozin & Wright, *Optimization for ML* — plus surveys by Belkin ("Fit without fear") and Bartlett & Montanari, and Chewi–Niles-Weed–Rigollet's *Statistical Optimal Transport*.
+**Books (11+):** Arora et al., *Theory of Deep Learning* · Ye, *Geometry of Deep Learning* · Vershynin, *High-Dimensional Probability* (2nd ed.) · Shalev-Shwartz & Ben-David, *Understanding ML* · Mohri et al., *Foundations of ML* (2nd ed.) · Sra, Nowozin & Wright, *Optimization for ML* · Goodfellow et al., *Deep Learning* · Hazan, *Introduction to Online Convex Optimization* · Moitra, *Algorithmic Aspects of Machine Learning* · Blum–Hopcroft–Kannan, *Foundations of Data Science* · Nielsen, *Neural Networks and Deep Learning* — plus course notes, surveys, and Statistical OT.
 
-**Papers (40+):** Zhang 2017 · Bartlett 2020 · Jacot 2018 · Arora 2019 · Papyan–Han–Donoho 2020 · Lu–Steinerberger · Hyvärinen 2005 · Song 2021 · Chen–Lee–Lu · Wibisono–Wu–Yang · Woodworth 2020 · Chizat–Bach · von Oswald 2022 · Kaplan 2020 · and more — see `docs/session-sequence`.
+**Papers (75+):** Zhang 2017 · Bartlett 2020 · Jacot 2018 · Arora 2019 · Papyan–Han–Donoho 2020 · Lu–Steinerberger · Hyvärinen 2005 · Song 2021 · Chen–Lee–Lu · Wibisono–Wu–Yang · Woodworth 2020 · Chizat–Bach · von Oswald 2022 · Kaplan 2020 · and the Princeton/COS511 readings — see `docs/session-sequence`.
 
 ## Repository structure
 
@@ -49,7 +49,7 @@ docs/
 ├── book-chapters-1.md    ← chapter breakdown: Arora / Ye / SSBD
 ├── book-chapters-2.md    ← chapter breakdown: Vershynin / Mohri / Sra / surveys
 ├── course-map.md         ← modules, mastery criteria, pacing
-├── session-sequence.md   ← 103 sessions, extensions interleaved (E1–E13), 4 split a/b pairs, Princeton block (S84–S97), COS511 track (S98–S99)
+├── session-sequence.md   ← 104 sessions, S00 foundation + extensions interleaved (E1–E13), 4 split a/b pairs, Princeton block (S84–S97), COS511 track (S98–S99)
 ├── research-tracks.md    ← 3 research tracks + capstone ideas
 ├── notes.md              ← handwritten course notes (added as the course runs)
 └── status.md             ← public status + contact

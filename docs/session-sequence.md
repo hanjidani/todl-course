@@ -4,18 +4,20 @@ title: Session sequence
 nav_order: 3
 ---
 
-# Session sequence — 103 sessions, fully interleaved
+# Session sequence — 104 sessions, fully interleaved
 
 > Each row = one session (2h equivalent). Extension sessions (E-tags) are **numbered inline** — they are real sessions added to the flow, not side notes. Reading assignments (📖 homework) are listed per module without a number.
 > ⭐ **Splits:** 4 sessions run as **a/b pairs** (two 2h sessions each) because their content exceeds 2h: **S08** (min-norm + kernels + SVM), **S35** (Occam/compression + PAC-Bayes), **S64** (VAE/flows + GANs), **S76** (attention/transformers + self-supervised).
 > ⭐ **Princeton block:** 14 sessions (**S84–S97**) distilled from Sanjeev Arora's COS597A/G/B reading lists — extensions of M2/M3/M4/M6/M9/M10 plus a frontier block (adversarial robustness, teaching/curriculum).
-> ⭐ **COS511 track:** 2 sessions (**S98–S99**) from Arora's *Theoretical Machine Learning* (Princeton Spring 2019) — the classical online-learning sequence (weighted majority, EG, log loss, experts, games). Total: 103 session plans.
+> ⭐ **Foundations session:** **S00** is a dedicated probability and analysis refresher before concentration. It prevents the first technical session from rushing through Chapter 1 prerequisites.
+> ⭐ **COS511 track:** 2 sessions (**S98–S99**) from Arora's *Theoretical Machine Learning* (Princeton Spring 2019) — the classical online-learning sequence (weighted majority, EG, log loss, experts, games). Total: 104 session plans.
 > Roles: 🎓 in-class · 🗣 student seminar · 📖 homework · 🔬 research corner · 📋 teacher reference. Papers are interleaved between book chapters at the point where they belong.
 
-## M0 — Math, just enough (1–4)
+## M0 — Foundations + math, just enough (S00–S04)
 
 | # | Source | Topic |
 |---|---|---|
+| **00** | **Vershynin 2e ch1 §§1.1–1.7 (selected) · 🎓** | **Probability & analysis refresher: random variables, norms, conditioning, inequalities, LLN/CLT** |
 | 1 | Vershynin 2e ch2 · 🎓 | Hoeffding, Chernoff, subgaussian/subexponential, Bernstein |
 | 2 | Vershynin 2e ch3 · 🎓 | Norm concentration, random vectors, PCA |
 | 3 | Ye ch1 (sel.) + Arora Basic Setup · 🎓 | Matrix/vector calculus, convex optimization, useful facts |
@@ -192,7 +194,7 @@ Reproduce one of the four [capstone projects](research-tracks.html) + a research
 
 ## Counting
 
-- **103 session plans** = 74 core lectures/seminars/workshops + **9 in-class extension sessions** (E1–E13) + **4 a/b split pairs** (S08, S35, S64, S76) + **14 Princeton block sessions** (S84–S97) + **2 COS511 track sessions** (S98–S99), all interleaved and numbered
+- **104 session plans** = **1 foundation refresher (S00)** + 74 core lectures/seminars/workshops + **9 in-class extension sessions** (E1–E13) + **4 a/b split pairs** (S08, S35, S64, S76) + **14 Princeton block sessions** (S84–S97) + **2 COS511 track sessions** (S98–S99), all interleaved and numbered
 - **3 reading assignments** (E4, E9, E11) — 📖 homework with a 3-question checklist, no class slot
 - Capstone 6–8 weeks
 - Every chapter of every book is covered (see [Book chapters I](book-chapters-1.html) & [II](book-chapters-2.html))

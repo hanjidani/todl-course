@@ -6,7 +6,7 @@ nav_order: 5
 
 # Book chapters (2/2) — Vershynin, Mohri, Sra–Nowozin, surveys, Statistical OT
 
-> **Program:** 103 sessions · 13 modules · 11 books × 75+ papers — [full sequence](session-sequence.html)
+> **Program:** 104 sessions · 13 modules · 11+ books × 75+ papers — [full sequence](session-sequence.html)
 
 > Status legend: ✅ full coverage · ⚙️ selected sections in class · 🗣 student seminar · 📖 assigned reading · 🔬 research corner · 📋 teacher material.
 > **No out-of-scope topics:** every chapter has an assignment — main modules, extension sessions E1–E13 (see [session sequence](session-sequence.html)), or the research corner.
@@ -17,9 +17,9 @@ nav_order: 5
 | # | Chapter | Status | Module |
 |---|---|---|---|
 | Appetizer | Covering a set with probability | ⚙️ | M0 |
-| 1 | Quick Refresher on Analysis and Probability | 📖 | M0 |
-| 2 | Concentration of Sums (Hoeffding, Chernoff, subgaussian, Bernstein) | ✅ | M0 |
-| 3 | Random Vectors in High Dimensions (norm concentration, PCA, kernel trick) | ✅ | M0 (session 2) + M7 (session 48, kernel trick) |
+| 1 | Quick Refresher on Analysis and Probability | ✅ | M0 (S00) |
+| 2 | Concentration of Sums (Hoeffding, Chernoff, subgaussian, Bernstein) | ✅ | M0 (S01) |
+| 3 | Random Vectors in High Dimensions (norm concentration, PCA, kernel trick) | ✅ | M0 (S02) + M7 (session 48, kernel trick) |
 | 4 | Random Matrices (nets, subgaussian matrices, covariance estimation) | ⚙️ | M6 |
 | 5 | Concentration Without Independence (Lipschitz, JL, matrix Bernstein) | 🔬 | — |
 | 6 | Quadratic Forms (Hanson–Wright, symmetrization) | 🔬 | M6 |

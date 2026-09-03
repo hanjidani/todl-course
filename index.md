@@ -21,7 +21,7 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 |---|---|
 | 🎯 **Audience** | Fresh BSc students, zero background required |
 | 📚 **Content** | 11 books × 75+ papers, woven into one path — **every chapter of every book is covered** |
-| 📏 **Structure** | 103 sessions (74 core + 9 in-class extensions + 4 a/b split pairs + 14 Princeton-block S84–S97 + 2 COS511 S98–S99) across 13 modules |
+| 📏 **Structure** | 104 sessions (1 foundation refresher S00 + 74 core + 9 in-class extensions + 4 a/b split pairs + 14 Princeton-block S84–S97 + 2 COS511 S98–S99) across 13 modules |
 | 🔬 **Outcome** | Research-ready: every module ends in a reproduction workshop |
 | ⚖️ **Pace** | Precision over speed — module-based mastery, no rushing |
 
@@ -35,7 +35,7 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 
 | Module | Name | Sessions | Pass criterion |
 |---|---|---|---|
-| M0 | Math, just enough | 1–4 | One-line Hoeffding proof + norm concentration in numpy |
+| M0 | Foundations + math, just enough | S00–S04 | Expectation/variance + Chebyshev, then one-line Hoeffding proof + norm concentration |
 | M1 | ML in 3 sentences (+ toolbox: trees, clustering) | 5–10 | Bias-variance by hand + derive the min-norm solution |
 | M2 | Networks from scratch (+ GNN survey) | 11–17 | Hand-built MLP + random-label experiment |
 | M3 | Optimization (+ large-scale tradeoffs) | 18–24 | GD/SGD/Adam curves + SGD noise covariance |
@@ -52,7 +52,7 @@ description: "Theory of Deep Learning for Undergraduates — a complete books ×
 ## 🧭 Explore
 
 - **[Course map](docs/course-map.html)** — module graph, mastery criteria, prerequisite chains
-- **[Session sequence](docs/session-sequence.html)** — all 103 sessions (4 split pairs, 14 Princeton-block + 2 COS511), extensions interleaved and numbered
+- **[Session sequence](docs/session-sequence.html)** — all 104 sessions (S00 foundation + 4 split pairs, 14 Princeton-block + 2 COS511), extensions interleaved and numbered
 - **[Book chapters](docs/book-chapters-1.html)** — chapter breakdown of every source (+ [part 2](docs/book-chapters-2.html))
 - **[Sources](docs/sources.html)** — every book & paper, with direct links
 - **[Course notes](docs/notes.html)** — handwritten tablet notes from each session, added as the course runs

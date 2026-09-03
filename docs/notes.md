@@ -18,6 +18,7 @@ nav_order: 7
 
 | Session | Topic | Note |
 |---|---|---|
+| S00 | Probability & analysis refresher | — |
 | S01 | Concentration of sums | — |
 | S02 | Norm concentration & PCA | — |
 | S03 | Calculus & convexity | — |

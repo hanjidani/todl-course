@@ -6,7 +6,7 @@ nav_order: 6
 
 # Research tracks & capstone
 
-> **Program:** 103 sessions · 13 modules — [full sequence](session-sequence.html)
+> **Program:** 104 sessions · 13 modules — [full sequence](session-sequence.html)
 
 The course is designed so that everything students meet in class is directly usable in research. After the course (or in parallel for strong students), teams pick a track.
 

@@ -7,7 +7,7 @@ has_children: false
 
 # Course map — modules, mastery, pacing
 
-> 13 modules, **103 sessions** (74 core + 9 extensions + 4 split pairs a/b + 14 Princeton-block S84–S97 + 2 COS511 S98–S99), plus a 6–8 week capstone. Pace is **module-based, not hour-based**: pass the mastery criterion, then move on.
+> 13 modules, **104 sessions** (1 foundation refresher S00 + 74 core + 9 extensions + 4 split pairs a/b + 14 Princeton-block S84–S97 + 2 COS511 S98–S99), plus a 6–8 week capstone. Pace is **module-based, not hour-based**: pass the mastery criterion, then move on.
 
 ## Module flow
 
@@ -47,7 +47,7 @@ flowchart LR
 
 | Mod | Name | Sessions | Mastery criterion (must-pass) |
 |---|---|---|---|
-| M0 | Math, just enough | 1–4 | One-line Hoeffding proof + norm concentration in numpy |
+| M0 | Foundations + math, just enough | S00–S04 | Expectation/variance + Chebyshev, then one-line Hoeffding proof + norm concentration |
 | M1 | ML in 3 sentences (+ toolbox: trees, clustering) | 5–10 | Bias-variance by hand + derive the min-norm solution |
 | M2 | Networks from scratch (+ GNN survey) | 11–17 | Hand-built 2-layer MLP + random-label experiment (Zhang 2017) |
 | M3 | Optimization (+ large-scale tradeoffs) | 18–24 | GD/SGD/Adam curves + measured SGD noise covariance |
@@ -69,7 +69,7 @@ The sequence is one continuous argument, told in four acts:
 1. **Act I — Build the machine (M0–M3).** Math that is *just enough* → what a learning machine is → build a network with your own hands → understand the optimizer that drives it. Session 14 plants the mystery that the course will resolve: *a network fits pure noise perfectly and still generalizes.*
 2. **Act II — Why does it work? (M4–M6).** Nonconvex landscapes and why escaping them is easy in practice → the rigorous language of generalization (PAC, VC, Rademacher) → then the resolution of the mystery: double descent, benign overfitting, and implicit bias. Session 14's hook pays off in session 42.
 3. **Act III — What does a trained network look like? (M7–M8).** The kernel regime: infinite width makes a network a linear, convex object (NTK) → then the turn: real networks exit the kernel regime, learn features, and collapse into a rigid simplex geometry (neural collapse).
-4. **Act IV — Frontiers (M9–M10).** Generative modeling as score + optimal transport → transformers: in-context learning turns out to be gradient descent in disguise — closing the loop back to Act I. Then the **Princeton block (S84–S97)** harvests Arora's COS597 A/G/B reading lists — Barron's rates, tensor methods, adaptive optimization, GAN/embedding theory, adversarial robustness — and the **COS511 track (S98–S99)** adds the classical online-learning sequence (weighted majority → log loss → games). The 9 in-class extension sessions (E1–E13), the two added blocks, and 3 reading assignments complete every remaining chapter of every book at the point where its prerequisites exist.
+4. **Act IV — Frontiers (M9–M10).** Generative modeling as score + optimal transport → transformers: in-context learning turns out to be gradient descent in disguise — closing the loop back to Act I. Then the **Princeton block (S84–S97)** harvests Arora's COS597 A/G/B reading lists — Barron's rates, tensor methods, adaptive optimization, GAN/embedding theory, adversarial robustness — and the **COS511 track (S98–S99)** adds the classical online-learning sequence (weighted majority → log loss → games). The new **S00 foundation refresher** prevents the course from rushing through Chapter 1 before S01. The 9 in-class extension sessions (E1–E13), the two added blocks, and 3 reading assignments complete every remaining chapter of every book at the point where its prerequisites exist.
 
 ## Hard prerequisite chains (do not jump)
 

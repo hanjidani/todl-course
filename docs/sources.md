@@ -6,7 +6,7 @@ nav_order: 8
 
 # 📚 Sources — every book & paper of the course
 
-> **Program:** 103 sessions · 13 modules — [full sequence](session-sequence.html)
+> **Program:** 104 sessions · 13 modules — [full sequence](session-sequence.html)
 
 > **Availability policy:** anything the authors/publishers distribute **freely** is linked directly. Copyrighted books are linked to their publisher page; an instructor's copy exists in the private vault and is shared with enrolled students and collaborators only.
 
